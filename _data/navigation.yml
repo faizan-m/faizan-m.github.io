@@ -23,7 +23,7 @@ header:
       en-AU   : *EN
     url: /projects.html
 
-      - titles:
+  - titles:
       en      : &EN       Quirks
       en-GB   : *EN
       en-US   : *EN
