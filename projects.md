@@ -7,9 +7,11 @@ aside:
 ---
 
 ## Trinity College International Fire Fighting Robot Contest
-### (C++, Python, ROS, Project Management)
+### (Project Management, ROS, C++, Python, Microcontrollers)
 
-I have been involved in the contest since my freshman year of college as part of the [Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). In 2018, I led the development of the software architecture for the robot which was based on a central Raspberry Pi Zero interfaced with an Arduino Mega. 
+I have been involved in the contest since my freshman year of college as part of the [Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
+
+In 2018, I led the development of the software architecture for the robot which was based on a central Raspberry Pi Zero interfaced with an Arduino Mega. 
 
 <div class="hero hero--dark" style='height: 500px; background-image: url("/assets/images/robotics/trin18.jpg");'>
 </div>
@@ -19,7 +21,7 @@ In 2019, I led the full-stack development of the robot with a focus on having de
 <div class="hero hero--dark" style='height: 500px; background-image: url("/assets/images/robotics/trin19.jpg");'>
 </div>
 
-The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics and I won the Olympiad in Senior Individual Category in both 2018 and 2019.
+The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in both 2018 and 2019.
 
 ## Sound Based Robot Localization
 ### (MATLAB, Machine Learning)
@@ -54,7 +56,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 
 
 ## Simple Robotics
-### (Lego Mindstorms, LabVIEW, Robot Design)
+### (LabVIEW, Lego Mindstorms, Robot Design)
 
 I took the Simple Robotics class during my first semester freshman year. The class focused primarily on the creative process behind building robots. We built lots of fun, little robots every week and it was a very unique and insightful experience. This is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
