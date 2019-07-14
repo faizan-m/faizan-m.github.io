@@ -1,32 +1,25 @@
 header:
-  - titles:
-      en      : &EN       Home
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  - title: Home
     url: /index.html
 
-  - titles:
-      en      : &EN       Research
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-    url: /research.html
+  - title: Experience
+    url: /experience.html
 
-  - titles:
-      en      : &EN       Projects
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  - title: Projects
     url: /projects.html
 
-  - titles:
-      en      : &EN       Quirks
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  - title: Quirks
+    url: /quirks.html
+
+sidebar:
+  - title: Home
+    url: /index.html
+
+  - title: Experience
+    url: /experience.html
+
+  - title: Projects
+    url: /projects.html
+
+  - title: Quirks
     url: /quirks.html
