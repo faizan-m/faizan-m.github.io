@@ -18,7 +18,10 @@ https://now.tufts.edu/articles/hands-research-undergraduates
 ### (C++, Python, Go)
 ### May 2019 - Present
 
-Working on some experimental features for CTRL-Kit
+I worked on interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movement of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually control 4 of its legs using purely muscle movements and gestures. This work was also featured in an NPR video below:
+<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
+
+
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019
