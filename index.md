@@ -14,4 +14,4 @@ aside:
   toc: false
 ---
 
-### I envision a future where machines are natural extensions of humanity. My key interest areas include Robotics, Neural Interfaces, Computer Vision and Augmented Reality.
+### I dream of a future where machines enhance and augment our shared humanity. While technology's potential to fundamentally transform society is well-recognized, I believe conscious and ethical design is the key to ensuring that this impact remains wholly positive. My key interest areas include Robotics, Neural Interfaces, Computer Vision and Augmented Reality.
