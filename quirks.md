@@ -29,7 +29,6 @@ I have been a member of the HYPE! mime troupe at Tufts where I was involved in a
 <div class="swiper my-3 swiper-mime swiper-mime--0">
   <div class="swiper__wrapper">
     <div class="swiper__slide"><img class="lightbox-ignore" src="/assets/images/mime/1.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="/assets/images/mime/2.jpg"/></div>
     <div class="swiper__slide"><img class="lightbox-ignore" src="/assets/images/mime/3.jpg"/></div>
     <div class="swiper__slide"><img class="lightbox-ignore" src="/assets/images/mime/4.jpg"/></div>
     <div class="swiper__slide"><img class="lightbox-ignore" src="/assets/images/mime/5.jpg"/></div>

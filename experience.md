@@ -5,23 +5,26 @@ key: page-experience
 aside:
   toc: true
 ---
+## Software Engineering Intern, CTRL Labs
+### (C++, Python, Go)
+### May 2019 - August 2019
+
+CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movement of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. This work was featured in an NPR video recently:
+<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
+
+For the rest of my internship, I focused on prototyping some experimental features for CTRL Kit. 
 
 ## Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University 
 ### (ROS, Unity, C++, C#, Python)
 ### Jan 2018 - Present
 
-HRI Paper, AR Videos, Verizon 5G EdTech Challenge, Tufts Summer Scholars
-Presented to the board of SoE and alumni fundraising, social media
-https://now.tufts.edu/articles/hands-research-undergraduates
+During the first few months, I learned ROS and developed some software in it for data-logging the Turtlebot robots in our lab. For the summer, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state, intentions and knowledge. This proposal was accepted and funded by Tufts Summer Scholars.
 
-## Software Engineering Intern, CTRL Labs
-### (C++, Python, Go)
-### May 2019 - Present
-
-I worked on interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movement of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually control 4 of its legs using purely muscle movements and gestures. This work was also featured in an NPR video below:
-<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
-
-
+This project has received a lot of attention within the university and beyond:
+- Presented as a [Late Breaking Report](https://ieeexplore.ieee.org/document/8673191) in HRI 2019 conference in South Korea
+- Part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
+- Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
+- Presented to the advising board and the campaign committee of the Tufts' School of Engineering
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019
@@ -33,7 +36,7 @@ I have been a part of the Tufts Robotics Club since freshman year and have been 
 
 During the sophomore year, I was a Software Specialist in the Executive Board and focused on designing software architectures for our projects and teaching new members about software development for robots. 
 
-In my junior year, I was elected Co-President of the club. My main objective in that role was improving club diversity, accessibility and member retention. I approached these issues by formalizing member attendance during meetings to keep track of member activity and club growth. One of the key insights I learned by talking to some of the new members is that they felt like they lacked any ownership in the seemingly complex projects the club was working on and felt like they could not contribute much to the club. Tackling this problem involved breaking down key goals with them and indentifying tasks that they could do or learn to do. Using this technique with all incoming members also helped increase club productivity.
+In my junior year, I was elected Co-President of the club. My main objective in that role was improving club diversity, accessibility and member retention. I approached these issues by formalizing member attendance during meetings to keep track of member activity and club growth. One of the key insights I learned by talking to some of the new members is that they felt like they lacked any ownership in the seemingly complex projects the club was working on and felt like they could not contribute much to the club. Tackling this problem involved breaking down key goals with them and identifying tasks that they could do or learn to do. Using this technique with all incoming members also helped increase club productivity.
 
 ## Research Assistant, Center for Engineering Education and Outreach, Tufts University
 ### (OpenCV, C++, LabVIEW, Arduino)

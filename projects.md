@@ -5,9 +5,10 @@ key:    page-projects
 aside:
   toc: true
 ---
+(This section does not include research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
 
 ## Trinity College International Fire Fighting Robot Contest
-### (Project Management, ROS, C++, Python, Microcontrollers)
+### (Project Management, ROS, C++, Python, Micro-controllers)
 
 I have been involved in the contest since my freshman year of college as part of [my role in the Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
 
@@ -16,7 +17,7 @@ In 2018, I led the development of the software architecture for the robot which 
 <div class="hero hero--dark" style='height: 500px; background-image: url("/assets/images/robotics/trin18.jpg");'>
 </div>
 
-In 2019, I led the full-stack development of the robot with a focus on having dedicated realtime subsystems running on Arduinos and a central Raspberry Pi 3B+ running ROS. It was our first completely self-made robot that was capable of Point-to-Point navigation while doing SLAM (Simultaneous Localization and Mapping) using a LIDAR. Perviously, we had been relying on heuristics like Wall-Following for navigation. Apart from hardware design and electronics setup, the key challenge for this robot was building a robust navigation stack which included writing our own controllers for motors as well as tuning mapping and path-planning parameters to the limited processing power of the 3B+.
+In 2019, I led the full-stack development of the robot with a focus on having dedicated real time subsystems running on Arduinos and a central Raspberry Pi 3B+ running ROS. It was our first completely self-made robot that was capable of Point-to-Point navigation while doing SLAM (Simultaneous Localization and Mapping) using a LIDAR. Previously, we had been relying on heuristics like Wall-Following for navigation. Apart from hardware design and electronics setup, the key challenge for this robot was building a robust navigation stack which included writing our own controllers for motors as well as tuning mapping and path-planning parameters to the limited processing power of the 3B+.
 
 <div class="hero hero--dark" style='height: 420px; background-image: url("/assets/images/robotics/trin19.jpg");'>
 </div>
@@ -26,9 +27,9 @@ The contest also organizes an Olympiad every year that focuses on the theoretica
 ## Sound Based Robot Localization
 ### (MATLAB, Machine Learning)
 
-We prototyped a potential localization system that could be used to augment navigation abilites of robots in our CS building. We used a Sine Sweep to generate Room Impulse Response (RIR). We then extracted some features from the RIR to predict which area of the building the robot was in using Machine Learning. It relies on the idea that different spaces within the building will have different acoustics and hence these spaces could be potentially identified by them. 
+We prototyped a potential localization system that could be used to augment navigation abilities of robots in our CS building. We used a Sine Sweep to generate Room Impulse Response (RIR). We then extracted some features from the RIR to predict which area of the building the robot was in using Machine Learning. It relies on the idea that different spaces within the building will have different acoustics and hence these spaces could be potentially identified by them. 
 
-The confusion matrix below outlines our final cross-validation results based on a dataset collected across 3 spaces with 50 samples each. Class 1 is a small lab room, Class 2 is an open lounge space and Class 3 is a section of corridor. While it works practically perfectly within the dataset in being able to tell the lab room apart from the corridoor, there is some error within the open lounge space. We thought that might be due to the possibility that the open lounge does not have a single acoustic profile throughout itself. We tried to exploit that by using RIR to predict position in room given which room it is in but did not find any solid results.
+The confusion matrix below outlines our final cross-validation results based on a dataset collected across 3 spaces with 50 samples each. Class 1 is a small lab room, Class 2 is an open lounge space and Class 3 is a section of corridor. While it works practically perfectly within the dataset in being able to tell the lab room apart from the corridor, there is some error within the open lounge space. We thought that might be due to the possibility that the open lounge does not have a single acoustic profile throughout itself. We tried to exploit that by using RIR to predict position in room given which room it is in but did not find any solid results.
 
 <div class="hero hero--dark" style='height: 600px; background-image: url("/assets/images/projects/soundConfusion.PNG");'>
 </div>
@@ -58,7 +59,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 ## Simple Robotics
 ### (LabVIEW, Lego Mindstorms, Robot Design)
 
-I took the Simple Robotics class during my first semester freshman year. The class focused primarily on the creative process behind building robots. We built lots of fun, little robots every week and it was a very unique and insightful experience. This is an animatronic Jack Sparrow that yells at you if you take his candy:
+I took the Simple Robotics class during my first semester freshman year. In my experience, the class focused primarily on the overall creative design process behind building robots rather than rabbit-hole down a specific aspect of robotics. We built lots of fun, little robots every week and it was a very unique and insightful experience. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
 
 And this is me as a sassy, robot-wielding magician: 
