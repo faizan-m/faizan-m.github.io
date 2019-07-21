@@ -9,13 +9,21 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(0, 0, 0 , .4), rgba(0, 0, 0, .4))'
     src: /assets/images/background/main_bg.jpg
-
-aside:
-  toc: false
 ---
 
-I dream of a future where machines enhance and augment our shared humanity. While technology has the potential to fundamentally transform our definitions of society and humanity, I believe conscious and ethical design is the key to ensuring that this impact remains wholly positive. 
+<p></p>
 
-I am curious about what traits we choose to define as being "human", how technology impacts them and how can we use technology to enhance them. I am also interested in these traits as an inspiration for building smarter and more robust robots.
-
-My key interest areas include Robotics, Neural Interfaces, Computer Vision and Augmented Reality.
+<div class="item">
+	<div class="item__image">
+		<img class="image image--l" src="/assets/images/faizan_small.PNG"/>
+	</div>
+	<div class="item__content">
+		<div class="item__description">
+			<font size = "3">
+				<p>I am an undergraduate student at Tufts University School of Engineering pursuing Computer Science. I dream of a future where machines enhance and augment our shared humanity.</p>
+				<p>I am curious about what traits we choose to define as being "human", how technology currently impacts them and how can we use technology to positively enhance them. I am also interested in these traits as an inspiration for building smarter and more robust robots.</p>
+				<p>My key interest areas include Robotics, Neural Interfaces, Computer Vision and Augmented Reality.</p>
+			</font>
+		</div>
+	</div>
+</div>
