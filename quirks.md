@@ -62,7 +62,7 @@ I have been a member of the HYPE! mime troupe at Tufts where I was involved in a
 <div class="hero hero--dark" style='height: 500px; background-image: url("/assets/images/imo.jpg");'>
 </div>
 
-During highschool I was heavily involved in math competitions, this culminated in me getting selected for the national Pakistani team for IMO 2016. The selection and training was an intense, gruelling process but I learned so much about mathematical problem solving and analysis through it. The camps and the competition are also a source of some of my long standing friendships.
+During highschool I was heavily involved in math competitions, this culminated in me getting selected for the national Pakistani team for IMO 2016. The selection and training was an intense, grueling process but I learned so much about mathematical problem solving and analysis through it. The camps and the competition are also a source of some of my long standing friendships.
 
 ## Books, Movies and Art
 I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Pratchet. I greatly appreciate their unique and whimsical approach to life and humanity. I also find it pretty amazing that there is way more in common between Bulleh (a devout Sufi) and Douglas (an equally devout atheist) than one would expect.
@@ -70,6 +70,7 @@ I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Prat
 My favorite movie is Cloud Atlas. If there is a reasonable answer to the meaning of life, the universe and everything then it is definitely in there somewhere.
 
 I recently learned about [Electric Sheep](https://electricsheep.org/) and it is one of the coolest things I have ever seen. It is crowd-sourced art powered by genetic algorithms that iteratively evolves based on feedback from the users. It never fails to mesmerize me every time I watch one of its clips.
+
 
 <script>
   {%- include scripts/lib/swiper.js -%}
