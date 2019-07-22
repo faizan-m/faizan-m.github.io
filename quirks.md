@@ -23,7 +23,7 @@ aside:
 </style>
 
 ## Miming
-I have been a member of the HYPE! mime troupe at Tufts where I was involved in acting, writing and directing skits. I love miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. And because of that it aspires to transcend beyond barriers of language and culture into something that is universally human. The time and experience within the troupe renewed my faith in our shared humanity that exists beyond social and geographic barriers.
+I was a member of the HYPE! mime troupe at Tufts where I was involved in acting, writing and directing skits. I love miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. And because of that it aspires to transcend beyond barriers of language and culture into something that is universally human. My experience within the troupe renewed my faith in our shared humanity that exists beyond social and geographic barriers.
 
 
 <div class="swiper my-3 swiper-mime swiper-mime--0">
