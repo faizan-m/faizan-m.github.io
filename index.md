@@ -15,7 +15,7 @@ article_header:
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--l" src="/assets/images/faizan_small.PNG"/>
+		<img class="image image--l" src="/assets/favicon-32x32.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__description">
