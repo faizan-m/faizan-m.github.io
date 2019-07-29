@@ -9,7 +9,7 @@ aside:
 ### (C++, Python, Go)
 ### May 2019 - August 2019
 
-CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movement of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and natural once you get the hang of them and can help break down the interaction wall with robots. This work was featured in an NPR video recently:
+CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and natural and can help break down the interaction wall with robots. This work was featured in an NPR video recently:
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
 
 For the rest of my internship, I focused on prototyping some experimental features for CTRL Kit. 
@@ -28,7 +28,6 @@ This project has received a lot of attention within the university and beyond:
 - I presented a [Late Breaking Report](https://ieeexplore.ieee.org/document/8673191) in HRI 2019 conference in South Korea. The paper contains details about our system architecture and implementation.
 - It was part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
 - It has been featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
-- We presented it to the advising board and the campaign committee of the Tufts' School of Engineering as a featured research project
 
 
 ## Co-President, Tufts Robotics Club
@@ -41,13 +40,13 @@ I have been a part of the Tufts Robotics Club since freshman year and have been 
 
 During the sophomore year, I was a Software Specialist in the Executive Board and focused on designing software architectures for our projects and teaching new members about software development for robots. 
 
-In my junior year, I was elected Co-President of the club. My main objective in that role was improving club diversity, accessibility and member retention. I approached these issues by formalizing member attendance during meetings to keep track of member activity and club growth. I discovered that new members felt like they lacked any ownership in the seemingly complex projects the club was working on and that they could not contribute much to the club. Tackling this problem involved breaking down key goals with them and identifying tasks that they could do or learn to do. Using this technique with all incoming members also helped increase club productivity.
+In my junior year, I was elected Co-President of the club. My main objective in that role was improving club diversity, accessibility and member retention. I approached these issues by formalizing member attendance during meetings to keep track of member activity and club growth. I discovered that new members felt like they lacked any ownership in the seemingly complex projects the club was working on. This gave rise to sense that they could not contribute much to the club. Tackling this problem involved breaking down key goals with them and identifying tasks that they could do or learn to do. Using this technique with all incoming members also helped increase club productivity.
 
 ## Research Assistant, Center for Engineering Education and Outreach, Tufts University
 ### (OpenCV, C++, LabVIEW, Arduino)
 ### Dec 2016 - Aug 2017
 I worked in Dr Ethan Danahy's Lab in CEEO during the freshman year of college focusing on some of the ongoing lab and research projects. My first project was designing a RESTful API for IoT devices in the lab. This was followed by implementing this system for an Arduino-powered lab sign that could change colors depending on the requests it received through the internet. 
 
-My second project involved working on the Computer Vision side of [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) (Interactive Learning and Collaboration Environment) which is a digital tool that teachers can use to enhance students' classroom experience by promoting collaboration and discussion. I wrote code to automatically and robustly extract different sections of worksheets based on given scanned images. This would act as a convenient classwork digitization tool which once paired with the rest of the InterLACE pipeline allowed teachers to go through the classwork section by section and share any interesting responses with the class. I then explored the possibility of digitally parsing some of those sections into meaningful data. In particular, I devised and implemented a programmable worksheet that children could use to easily program robots by just drawing on it:
+My second project involved working on the Computer Vision side of [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) (Interactive Learning and Collaboration Environment) which is a digital tool that teachers can use to enhance students' classroom experience by promoting collaboration and discussion. I wrote code to automatically and robustly extract different sections of worksheets based on given scanned images. This would act as a convenient classwork digitization tool which allowed teachers to go through the classwork section by section and share any interesting responses with the class. I then explored the possibility of digitally parsing some of those sections into meaningful data. In particular, I devised and implemented a programmable worksheet that children could use to easily program robots by just drawing on it:
 <div class="hero hero--dark" style='height: 420px; background-image: url("/assets/images/experience/worksheet.PNG");'>
 </div>

@@ -10,7 +10,7 @@ aside:
 ## Trinity College International Fire Fighting Robot Contest
 ### (Project Management, ROS, C++, Python, Micro-controllers)
 
-I have been involved in the contest since my freshman year of college as part of [my role in the Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
+I have been involved with the contest since my freshman year of college as part of [my role in the Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
 
 In 2018, I led the development of the software architecture for the robot which was based on a central Raspberry Pi Zero interfaced with an Arduino Mega. 
 
@@ -22,7 +22,7 @@ In 2019, I led the full-stack development of the robot with a focus on having de
 <div class="hero hero--dark" style='height: 420px; background-image: url("/assets/images/robotics/trin19.jpg");'>
 </div>
 
-The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in both 2018 and 2019.
+The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in 2018 and 2019.
 
 ## Sound Based Robot Localization
 ### (MATLAB, Machine Learning)
@@ -46,7 +46,7 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 ## ReVRSR
 ### (C#, Unity, ROS, Oculus Rift)
 
-"Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that let the user experience the world from the perspective of the robot that could be located anywhere. The key challenge in this project was interfacing ROS with Unity. 
+"Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that lets the user experience the world from the perspective of a robot that could be located anywhere in the world. The key challenge in this project was interfacing ROS with Unity. 
 
 <div class="hero hero--dark" style='height: 400px; background-image: url("/assets/images/projects/revrsr.PNG");'>
 </div>
@@ -59,7 +59,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 ## Simple Robotics
 ### (LabVIEW, Lego Mindstorms, Robot Design)
 
-I took the Simple Robotics class during my first semester freshman year. In my experience, the class focused primarily on the overall creative design process behind building robots rather than rabbit-hole down a specific aspect of robotics. We built lots of fun, little robots every week and it was a very unique and insightful experience. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
+I took the Simple Robotics class during my first semester freshman year. The class focused primarily on the overall creative design process behind building robots. We built lots of simple, fun robots every week resulting in a unique and insightful experience. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
 
 And this is me as a sassy, robot-wielding magician: 
