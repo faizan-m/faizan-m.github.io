@@ -15,11 +15,11 @@ article_header:
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--l" src="/assets/favicon-32x32.png"/>
+		<img class="image image--xl" src="/assets/images/portrait.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__description">
-			<font size = "3">
+			<font size = "4">
 				<p>I am an undergraduate student pursuing Computer Science at Tufts University School of Engineering. I dream of a future where machines enhance and augment our shared humanity.</p>
 				<p>I am curious about what traits we choose to define as being "human", how technology currently impacts them and how can we use technology to positively enhance them. I am also interested in these traits as an inspiration for building smarter and more robust robots.</p>
 				<p>My key interest areas include Robotics, Neural Interfaces, Computer Vision and Augmented Reality.</p>

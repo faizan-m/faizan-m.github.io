@@ -11,15 +11,5 @@ header:
   - title: Quirks
     url: /quirks.html
 
-sidebar:
-  - title: Home
-    url: /index.html
-
-  - title: Experience
-    url: /experience.html
-
-  - title: Projects
-    url: /projects.html
-
-  - title: Quirks
-    url: /quirks.html
+  - title: CV
+    url: /assets/Faizan_CV.pdf
