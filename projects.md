@@ -5,7 +5,7 @@ key:    page-projects
 aside:
   toc: true
 ---
-(This section does not include research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
+(This section does not include some research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
 
 ## Trinity College International Fire Fighting Robot Contest
 ### (Project Management, ROS, C++, Python, Micro-controllers)
@@ -59,7 +59,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 ## Simple Robotics
 ### (LabVIEW, Lego Mindstorms, Robot Design)
 
-I took the Simple Robotics class during my first semester freshman year. The class focused primarily on the overall creative design process behind building robots. We built lots of simple, fun robots every week resulting in a unique and insightful experience. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
+Simple Robotics was one of the first classes I took at Tufts. The class focused primarily on the creative design process behind building robots. We built simple, fun robots every week. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
 
 And this is me as a sassy, robot-wielding magician: 
