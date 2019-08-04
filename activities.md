@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Quirks
-key:    page-quirks
+title: Activites
+key:    page-activities
 aside:
   toc: true
 ---
