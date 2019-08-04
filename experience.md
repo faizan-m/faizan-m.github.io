@@ -20,6 +20,8 @@ For the rest of my internship, I focused on prototyping some experimental featur
 
 I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. For Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state, intentions and knowledge. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
 
+The interface allows a user to visualize a robot's state, intent and plan as an additional visual layer over the real world thereby bridging the gap between the digital information inside the robot and our analogue way of perception. 
+
 My role in this project was designing the overall system architecture and implementing the interface between Unity and ROS for data transfer between the robot and the AR device which could be an Android smartphone, iOS device or Microsoft Hololens. More recently, we conducted a preliminary pilot as part our HRI course final project and are now designing the full-scale study. 
 
 <div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>

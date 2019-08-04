@@ -46,7 +46,7 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 ## ReVRSR
 ### (C#, Unity, ROS, Oculus Rift)
 
-"Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that lets the user experience the world from the perspective of a robot that could be located anywhere in the world. The key challenge in this project was interfacing ROS with Unity. 
+"Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that lets the user experience the world from the perspective of a robot that could be located anywhere in the world. This would allow a human user to remotely take over and operate the robot when something goes wrong. The key challenge in this project was interfacing ROS with Unity. 
 
 <div class="hero hero--dark" style='height: 400px; background-image: url("/assets/images/projects/revrsr.PNG");'>
 </div>
