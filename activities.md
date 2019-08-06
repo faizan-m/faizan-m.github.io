@@ -23,9 +23,9 @@ aside:
 </style>
 
 ## Miming
-As a member of the HYPE! mime troupe, I was involved in acting, writing and directing skits. I love miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. And because of that, it aspires to transcend beyond barriers of language and culture into something that is universally human. 
+As a member of the HYPE! mime troupe, I am involved in acting, writing and directing skits. I love miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. And because of that, it aspires to transcend beyond barriers of language and culture into something that is universally human. 
 
-Physical storytelling is also an extremely interesting challenge to think about. When a story is made purely of gestures and actions, then each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and guesswork about the audience's imagination. 
+Physical storytelling is also an extremely interesting challenge to tackle. Because when a story is made purely of gestures and actions, each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and prediction about the audience's collective imagination as it evolves and responds to the story.
 
 <div class="swiper my-3 swiper-mime swiper-mime--0">
   <div class="swiper__wrapper">

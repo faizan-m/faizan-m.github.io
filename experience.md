@@ -5,15 +5,6 @@ key: page-experience
 aside:
   toc: true
 ---
-## Software Engineering Intern, CTRL Labs
-### (C++, Python, Go)
-### May 2019 - August 2019
-
-CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and natural and can help break down the interaction barrier with robots. This work was featured in an NPR video recently:
-<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
-
-For the rest of my internship, I focused on prototyping some experimental features for CTRL Kit. 
-
 ## Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University 
 ### (ROS, Unity, C++, C#, Python)
 ### Jan 2018 - Present
@@ -31,6 +22,14 @@ This project has received a lot of attention within the university and beyond:
 - It was part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
 - It has been featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
 
+## Software Engineering Intern, CTRL Labs
+### (C++, Python, Go)
+### May 2019 - August 2019
+
+CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and natural and can help break down the interaction barrier with robots. This work was featured in an NPR video recently:
+<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
+
+For the rest of my internship, I focused on prototyping some experimental features for CTRL Kit involving interactions with real-world objects and spaces.
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019

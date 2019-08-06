@@ -59,7 +59,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 ## Simple Robotics
 ### (LabVIEW, Lego Mindstorms, Robot Design)
 
-Simple Robotics was one of the first classes I took at Tufts. The class focused primarily on the creative design process behind building robots. We built simple, fun robots every week. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
+Simple Robotics was one of the first classes I took at Tufts. The class focused primarily on the creative design process behind building robots. We had the opportunity to build fun robots every week. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
 
 And this is me as a sassy, robot-wielding magician: 
