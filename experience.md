@@ -9,11 +9,13 @@ aside:
 ### (ROS, Unity, C++, C#, Python)
 ### Jan 2018 - Present
 
-I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. For Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state, intentions and knowledge. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
+I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
+
+For Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state, intentions and knowledge. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
 
 The interface allows a user to visualize a robot's state, intent and plan as an additional visual layer over the real world thereby bridging the gap between the digital information inside the robot and our analogue way of perception. 
 
-My role in this project was designing the overall system architecture and implementing the interface between Unity and ROS for data transfer between the robot and the AR device which could be an Android smartphone, iOS device or Microsoft Hololens. More recently, we conducted a preliminary pilot as part our HRI course final project and are now designing the full-scale study. 
+My role in this project was designing the overall system architecture and implementing the interface between Unity and ROS for data transfer between the robot and the AR device. The interface supports multiple devices including Android smartphones, iOS devices, and Microsoft Hololens. We conducted a preliminary pilot study recently and are now designing a full-scale study investigating the potential of this interface as a tool for Human-Robot Interaction.
 
 <div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>
 
