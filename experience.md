@@ -37,7 +37,7 @@ My first project was interfacing a hexapod robot with CTRL Kit allowing the robo
 This work was featured in an NPR video recently:
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
 
-For my second project, I proposed some experimental features for CTRL Kit involving interactions with real-world objects and spaces and built a prototype as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
+For my second project, I proposed some experimental features for CTRL Kit involving interactions with real-world objects and spaces. I built a prototype for those features as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019
@@ -51,7 +51,7 @@ During the sophomore year, I was a Software Specialist in the Executive Board an
 
 In my junior year, I was elected Co-President of the club. My main objective in that role personally was improving club diversity, accessibility and member retention. These issues were approached by formalizing member attendance during meetings to keep track of member activity and club growth. It was discovered that new members felt like they lacked ownership in the seemingly complex projects the club was working on. This gave rise to a sense that they could not contribute much to the club. Tackling this problem involved breaking down key project goals with them and identifying tasks that they could do or learn to do. 
 
-Based on the advice provided by some of the Tufts' researchers working on these issues, club dynamics for members were enhanced to ensure that the space was comfortable and welcoming for all skill levels. By the end of that year, the active members more than doubles as compared to last year and the ensuing Executive Board is the most diverse group the club has ever had.
+Based on the advice provided by some of the Tufts' researchers working on these issues, club dynamics for members were enhanced to ensure that the space was comfortable and welcoming for all skill levels. Active members doubled during the year which later created the most diverse Executive Board in club history.
 
 
 ## Research Assistant, Center for Engineering Education and Outreach, Tufts University

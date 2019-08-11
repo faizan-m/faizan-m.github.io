@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Robot-Whisperer, Part-Time Mime, Passionately Human
+title: Robot-Whisperer, Mime, Passionately Human
 show_title: false
 ---
 
 <h3> <font size = "5">
-Robot-Whisperer, Part-Time Mime, Passionately Human
+Robot-Whisperer, Mime, Passionately Human
 </font> </h3>
 
 
