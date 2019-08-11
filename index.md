@@ -1,13 +1,17 @@
 ---
 layout: article
-title: Robot-Whisperer, Mime, Passionately Human
-show_title: false
+title: Exploring the Frontiers of Human-Machine Augmentation and Interaction
+show_title: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#000000'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(0, 0, 0 , .4), rgba(0, 0, 0, .4))'
+    src: /assets/images/background/main_bg.jpg
 ---
 
-<h3> <font size = "5">
-Robot-Whisperer, Mime, Passionately Human
-</font> </h3>
-
+<p></p>
 
 <div class="item">
 	<div class="item__image">
