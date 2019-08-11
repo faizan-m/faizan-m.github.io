@@ -11,11 +11,13 @@ aside:
 
 I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
 
-For Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state, intentions and knowledge. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
+I noticed that learning to work with the robots as a beginner was incredibly difficult and it was next to impossible sometimes to figure what was going on inside them when something went wrong. So for Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
 
-The interface allows a user to visualize a robot's state, intent and plan as an additional visual layer over the real world thereby bridging the gap between the digital information inside the robot and our analogue way of perception. 
+The interface allows a user to visualize a robot's perception, knowledge and intent as an additional visual layer over the real world thereby bridging the gap between the digital information inside the robot and our analogue way of interpretation. 
 
-My role in this project was designing the overall system architecture and implementing the interface between Unity and ROS for data transfer between the robot and the AR device. The interface supports multiple devices including Android smartphones, iOS devices, and Microsoft Hololens. We conducted a preliminary pilot study recently and are now designing a full-scale study investigating the potential of this interface as a tool for Human-Robot Interaction.
+My role in this project was designing the overall system architecture and then creating a pipeline for transforming and transporting robot data from ROS to Unity so that it could be used to create any kind of visualizations. The interface supports multiple devices including Android smartphones, iOS devices, and Microsoft Hololens. 
+
+We have conducted a preliminary pilot study and are now designing a full-scale study investigating the potential of this interface as a tool for Human-Robot Interaction.
 
 <div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>
 
@@ -28,10 +30,14 @@ This project has received a lot of attention within the university and beyond:
 ### (C++, Python, Go)
 ### May 2019 - August 2019
 
-CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and natural and can help break down the interaction barrier with robots. This work was featured in an NPR video recently:
+CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
+
+My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and can help break down the interaction barrier with robots. 
+
+This work was featured in an NPR video recently:
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
 
-For the rest of my internship, I focused on prototyping some experimental features for CTRL Kit involving interactions with real-world objects and spaces.
+For my second project, I proposed some experimental features for CTRL Kit involving interactions with real-world objects and spaces and built a prototype as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019

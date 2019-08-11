@@ -7,6 +7,9 @@ aside:
 ---
 (This section does not include some research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
 
+## Teaching Robots Object Manipulation through EMG-Based Demonstrations (Planned Senior Honors Thesis)
+I am currently working on the design and scope of my senior honors thesis inspired by some the object manipulation research work being done by my PI (Prof. Jivko Sinapov) and my experience at CTRL Labs working with EMG control schemes. The idea here is that EMG signals in forearm contain instructions and hence information about objects that are being manipulated by a human instructor. This information can then be used as a guess or an estimate for the object's physical properties that may not be visually apparent such as weight, surface friction and fragility.
+
 ## Trinity College International Fire Fighting Robot Contest
 ### (Project Management, ROS, C++, Python, Micro-controllers)
 
