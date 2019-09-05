@@ -5,8 +5,22 @@ key: page-experience
 aside:
   toc: true
 ---
+
+## Software Engineering Intern, CTRL Labs
+#### (C++, Python, Go)
+### May 2019 - August 2019
+
+CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
+
+My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and can help break down the interaction barrier with robots. 
+
+For my main project, I proposed some experimental features for CTRL Kit involving physically contextualized interactions with real-world objects and spaces. I built a prototype for those features as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
+
+The hexapod was featured in an NPR video recently:
+<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
+
 ## Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University 
-### (ROS, Unity, C++, C#, Python)
+#### (ROS, Unity, C++, C#, Python)
 ### Jan 2018 - Present
 
 I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
@@ -19,25 +33,13 @@ My role in this project was designing the overall system architecture and then c
 
 We have conducted a preliminary pilot study and are now designing a full-scale study investigating the potential of this interface as a tool for Human-Robot Interaction.
 
-<div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>
-
 This project has received a lot of attention within the university and beyond:
 - I presented a [Late Breaking Report](https://ieeexplore.ieee.org/document/8673191) in HRI 2019 conference in South Korea. The paper contains details about our system architecture and implementation.
 - It was part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
 - It has been featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
 
-## Software Engineering Intern, CTRL Labs
-### (C++, Python, Go)
-### May 2019 - August 2019
 
-CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
-
-My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and can help break down the interaction barrier with robots. 
-
-This work was featured in an NPR video recently:
-<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
-
-For my second project, I proposed some experimental features for CTRL Kit involving interactions with real-world objects and spaces. I built a prototype for those features as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
+<div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>
 
 ## Co-President, Tufts Robotics Club
 ### Apr 2018 - Apr 2019
@@ -55,7 +57,7 @@ Based on the advice provided by some of the Tufts' researchers working on these 
 
 
 ## Research Assistant, Center for Engineering Education and Outreach, Tufts University
-### (OpenCV, C++, LabVIEW, Arduino)
+#### (OpenCV, C++, LabVIEW, Arduino)
 ### Dec 2016 - Aug 2017
 I worked in Dr. Ethan Danahy's Lab in CEEO during the freshman year of college focusing on some of the ongoing lab and research projects. My first project was designing a RESTful API for IoT devices in the lab. This was followed by implementing this system for an Arduino-powered lab sign that could change colors depending on the requests it received through the internet. 
 

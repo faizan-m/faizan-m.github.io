@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Exploring the Frontiers of Human-Machine Augmentation and Interaction
+title: Exploring the Frontiers of Robotics and Human-Machine Augmentation
 show_title: true
 article_header:
   type: overlay
@@ -15,7 +15,9 @@ article_header:
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="/assets/images/portrait.png"/>
+		<p></p>
+		<p></p>
+		<img class="image image" src="/assets/images/faizan.jpg"/>
 	</div>
 	<div class="item__content">
 		<div class="item__description">
