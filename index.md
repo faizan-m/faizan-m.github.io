@@ -17,7 +17,7 @@ article_header:
 	<div class="item__image">
 		<p></p>
 		<p></p>
-		<img class="image image" src="/assets/images/faizan.jpg"/>
+		<img class="image image--lg" src="/assets/images/portrait.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__description">
