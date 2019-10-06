@@ -26,7 +26,7 @@ In 2019, I led the full-stack development of the robot with a focus on having de
 <div class="hero hero--dark" style='height: 420px; background-image: url("/assets/images/robotics/trin19.jpg");'>
 </div>
 
-The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in 2018 and 2019.
+The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/) and 2019.
 
 ## Sound Based Robot Localization
 ### (MATLAB, Machine Learning)

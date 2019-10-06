@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Exploring the Frontiers of Robotics and Human-Machine Augmentation
+title: Exploring the Frontiers of Technology and Humanity
 show_title: true
 article_header:
   type: overlay
