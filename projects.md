@@ -8,11 +8,32 @@ aside:
 (This section does not include some research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
 
 ## EMG-Based Demonstrations as a Tool for Robot Learning 
-### (Planned Senior Honors Thesis)
-I am currently working on the design and scope of this project which is inspired by some the object manipulation research work being done by my PI ([Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/)) and my [experience at CTRL Labs](/experience.html#software-engineering-intern-ctrl-labs) working with EMG control schemes. The idea here is that EMG signals in forearm contain instructions and hence information about objects that are being manipulated by a human instructor. This information can then be used as a guess or an estimate for the object's physical properties that may not be visually apparent such as weight, surface friction and fragility.
+### (Senior Honors Thesis)
+#### Sep 2019 - May 2020
+<div class="hero hero--dark" style='height: 390px; background-image: url("/assets/images/emg_teaser.png");'>
+</div>
+
+It is challenging for robots to manipulate unique or unknown objects where characteristics such as weight, deformability, surface friction and fragility can not be inferred from mere vision or any other passive sensory approaches but are necessary to plan a good approach.
+
+Since the possible action space is large and the cost of exploring might be high, a lot of work has been done in informing robot policies by using human demonstration. However, it is difficult to establish a single mapping from human demonstration to robot action because the anatomical characteristics and personal preferences differ for each individual human demonstrator. The system purposed in this paper approaches this issue by maintaining a policy that defines the mapping between human demonstrations and robot actions. The policy starts from an estimate but as the robot explores the object, it is able to improve the policy by discovering better actions (less force, more successful grip type) corresponding to the demonstrations. As a result, the robot is able to adapt and compensate for the particular style of the demonstrator.
+
+For more details, check out my [HRI 2020 Pioneers submission](/assets/HRI_Pioneers_Faizan.pdf). So far I have been working on setting up the apparatus, environment and drivers for the robot and CTRL Kit. The robot gripper can now be teleoperated by a human since it can mimic their hand:
+<div>{%- include extensions/youtube.html id='ekkao1Aelho' -%}</div>
+
+## Faster Factoring Algorithms through Quantum Annealing
+### (Senior Capstone Project)
+#### Sep 2019 - May 2020
+
+Spinoff from the work done by my partner, João Marcos Vensi Basso, past summer in Institue of Quantum Computing, Waterloo. 
+
+While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. 
+
+So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method.
+
 
 ## Trinity College International Fire Fighting Robot Contest
 ### (Project Management, ROS, C++, Python, Micro-controllers)
+#### Sep 2017 - April 2019
 
 I have been involved with the contest since my freshman year of college as part of [my role in the Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
 
@@ -30,6 +51,7 @@ The contest also organizes an Olympiad every year that focuses on the theoretica
 
 ## Sound Based Robot Localization
 ### (MATLAB, Machine Learning)
+#### May 2019
 
 We prototyped a potential localization system that could be used to augment navigation abilities of robots in our CS building. We used a Sine Sweep to generate Room Impulse Response (RIR). We then extracted some features from the RIR to predict which area of the building the robot was in using Machine Learning. It relies on the idea that different spaces within the building will have different acoustics and hence these spaces could be potentially identified by them. 
 
@@ -42,6 +64,7 @@ The code, datasets and the project report can be found [here](https://github.com
 
 ## Clappy Bird
 ### (Digital Circuits, VHDL, FPGA, Lattice Radiant)
+#### May 2019
 
 We recreated the popular game Flappy Bird in an FPGA using claps as the means to control the game (hence the name). We used an Arduino Nano to interface with the microphone and detect claps due to technical difficulties with the ADC but the entire game logic and rendering is done within the FPGA using clocks, flip-flops, latches, multiplexers etc. in VHDL. The video below demonstrates the system in action:
 <div>{%- include extensions/youtube.html id='YWPLAgdawzo' -%}</div>
@@ -49,6 +72,7 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 
 ## ReVRSR
 ### (C#, Unity, ROS, Oculus Rift)
+#### May 2018
 
 "Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that lets the user experience the world from the perspective of a robot that could be located anywhere in the world. This would allow a human user to remotely take over and operate the robot when something goes wrong. The key challenge in this project was interfacing ROS with Unity. 
 
@@ -61,6 +85,7 @@ Insights and experience from this project led to [my Tufts Summer Scholars resea
 
 ## Simple Robotics
 ### (LabVIEW, Lego Mindstorms, Robot Design)
+#### September 2016
 
 Simple Robotics was one of the first classes I took at Tufts. The class focused primarily on the creative design process behind building robots. We had the opportunity to build fun robots every week. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
 <div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
