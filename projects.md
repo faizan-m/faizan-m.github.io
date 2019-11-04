@@ -10,7 +10,7 @@ aside:
 ## EMG-Based Demonstrations as a Tool for Robot Learning 
 ### (Senior Honors Thesis)
 #### Sep 2019 - May 2020
-<div class="hero hero--dark" style='height: 390px; background-image: url("/assets/images/emg_teaser.png");'>
+<div class="hero hero--dark" style='height: 390px; background-image: url("/assets/images/projects/emg_teaser.png");'>
 </div>
 
 It is challenging for robots to manipulate unique or unknown objects where characteristics such as weight, deformability, surface friction and fragility can not be inferred from mere vision or any other passive sensory approaches but are necessary to plan a good approach.
@@ -26,10 +26,12 @@ For more details, check out my [HRI 2020 Pioneers submission](/assets/HRI_Pionee
 
 Spinoff from the work done by my partner, João Marcos Vensi Basso, past summer in Institue of Quantum Computing, Waterloo. 
 
-While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. 
+While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. We will be using D-Wave's Quantum Annealer for this project.
 
-So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method.
+So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. 
 
+<div class="hero hero--dark" style='height: 400px; background-image: url("/assets/images/projects/dwave.jpg");'>
+</div>
 
 ## Trinity College International Fire Fighting Robot Contest
 ### (Project Management, ROS, C++, Python, Micro-controllers)
