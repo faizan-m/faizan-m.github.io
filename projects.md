@@ -24,7 +24,7 @@ For more details, check out my [HRI 2020 Pioneers submission](/assets/HRI_Pionee
 ### (Senior Capstone Project)
 #### Sep 2019 - May 2020
 
-Spinoff from the work done by my partner, João Marcos Vensi Basso, past summer in Institue of Quantum Computing, Waterloo. 
+This project is a spinoff from the work done by my partner, João Marcos Vensi Basso, past summer in Institue of Quantum Computing, Waterloo. 
 
 While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. We will be using D-Wave's Quantum Annealer for this project.
 
