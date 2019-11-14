@@ -28,7 +28,7 @@ This project is a spinoff from the work done by my partner, João Marcos Vensi B
 
 While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. We will be using D-Wave's Quantum Annealer for this project.
 
-So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. 
+So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. Check out our [design doc](/assets/CapstoneDesignDoc.pdf)
 
 <div class="hero hero--dark" style='height: 400px; background-image: url("/assets/images/projects/dwave.jpg");'>
 </div>
