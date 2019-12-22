@@ -17,7 +17,7 @@ It is challenging for robots to manipulate unique or unknown objects where chara
 
 Since the possible action space is large and the cost of exploring might be high, a lot of work has been done in informing robot policies by using human demonstration. However, it is difficult to establish a single mapping from human demonstration to robot action because the anatomical characteristics and personal preferences differ for each individual human demonstrator. The system purposed in this paper approaches this issue by maintaining a policy that defines the mapping between human demonstrations and robot actions. The policy starts from an estimate but as the robot explores the object, it is able to improve the policy by discovering better actions (less force, more successful grip type) corresponding to the demonstrations. As a result, the robot is able to adapt and compensate for the particular style of the demonstrator.
 
-For more details, check out my [HRI 2020 Pioneers submission](/assets/HRI_Pioneers_Faizan.pdf). So far I have been working on setting up the apparatus, environment and drivers for the robot and CTRL Kit. The robot gripper can now be teleoperated by a human since it can mimic their hand:
+So far I have been working on setting up the apparatus, environment and required drivers as well as doing background research for the project. The robot gripper can now be teleoperated by a human since it can mimic their hand:
 <div>{%- include extensions/youtube.html id='ekkao1Aelho' -%}</div>
 
 ## Faster Factoring Algorithms through Quantum Annealing
