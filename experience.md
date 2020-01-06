@@ -6,7 +6,7 @@ aside:
   toc: true
 ---
 
-## Software Engineering Intern, CTRL Labs
+## Software Engineering Intern, CTRL Labs (now acquired by Facebook)
 #### (C++, Python, Go)
 ### May 2019 - August 2019
 
@@ -14,7 +14,7 @@ CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL 
 
 My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and can help break down the interaction barrier with robots. 
 
-For my main project, I proposed some experimental features for CTRL Kit involving physically contextualized interactions with real-world objects and spaces. I built a prototype for those features as a proof of concept. Four patent applications are currently being filed based on the proposal idea and prototype.
+For my main project, I proposed some experimental features for CTRL Kit involving physically contextualized interactions with real-world objects and spaces. I built a prototype for those features as a proof of concept. Patent application is currently being filed based on the proposal idea and prototype.
 
 The hexapod was featured in an NPR video recently:
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
