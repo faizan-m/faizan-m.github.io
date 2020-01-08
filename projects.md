@@ -5,7 +5,7 @@ key:    page-projects
 aside:
   toc: true
 ---
-(This section does not include some research projects which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
+(This section does not include projects done in labs and internships which can be found in the [Experience](https://faizan-m.github.io/experience.html) section)
 
 ## EMG-Based Demonstrations as a Tool for Robot Learning 
 ### (Senior Honors Thesis)

@@ -10,7 +10,7 @@ aside:
 #### (C++, Python, Go)
 ### May 2019 - August 2019
 
-CTRL Labs is developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
+CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
 
 My first project was interfacing a hexapod robot with CTRL Kit allowing the robot's legs to mimic finger movements of a human user. I also developed a "soccer-mode" that allows the user to move the robot and individually kick its legs using muscle movements and gestures. I believe such control schemes have the potential to be incredibly intuitive and can help break down the interaction barrier with robots. 
 
@@ -23,9 +23,9 @@ The hexapod was featured in an NPR video recently:
 #### (ROS, Unity, C++, C#, Python)
 ### Jan 2018 - Present
 
-I started working with Professor Jivko Sinapov starting Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
+I started working with Professor Jivko Sinapov in the Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
 
-I noticed that learning to work with the robots as a beginner was incredibly difficult and it was next to impossible sometimes to figure what was going on inside them when something went wrong. So for Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
+I noticed that learning to work with the robots as a beginner was incredibly difficult and it was often next to impossible to figure what was going on inside when something went wrong. So for Summer 2018, I proposed an Augmented Reality interface for these Turtlebots that would allow users to visualize the robots' state. This proposal was accepted and funded by Tufts Summer Scholars. The project later grew to include multiple undergraduate students and one graduate student. 
 
 The interface allows a user to visualize a robot's perception, knowledge and intent as an additional visual layer over the real world thereby bridging the gap between the digital information inside the robot and our analogue way of interpretation. 
 
