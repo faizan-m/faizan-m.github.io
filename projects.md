@@ -17,49 +17,49 @@ key:    page-projects
 
  <tbody>
   <tr>
-   <td>Visualizing a Robot's Perspective in Augmented Reality</td>
+   <td><a href="/projects.html#visualizing-a-robots-perspective-in-augmented-reality">Visualizing a Robot's Perspective in Augmented Reality</a></td>
    <td> ROS, Unity, C++, C#, Python </td>
    <td> AIR Lab </td>
    <td> May 2018 - May 2019 </td>
   </tr>
 
   <tr>
-   <td>Robot Teleoperation through Neuromuscular Control</td>
+   <td><a href="/projects.html#robot-teleoperation-through-neuromuscular-control">Robot Teleoperation through Neuromuscular Control</a></td>
    <td> Go, Vincross Hexa</td>
    <td> CTRL Labs </td>
    <td> May 2019 </td>
   </tr>
 
   <tr>
-   <td>Faster Factoring Algorithms through Quantum Annealing</td>
+   <td><a href="/projects.html#faster-factoring-algorithms-through-quantum-annealing">Faster Factoring Algorithms through Quantum Annealing</a></td>
    <td> Quantum Computing, Haskell, Python</td>
    <td> Senior Capstone Project with IQC </td>
    <td> Sep 2019 - May 2020 </td>
   </tr>
 
    <tr>
-   <td>Trinity College International Fire Fighting Robot Contest</td>
+   <td><a href="/projects.html#trinity-college-international-fire-fighting-robot-contest">Trinity College International Fire Fighting Robot Contest</a></td>
    <td> ROS, C++, Python, Raspberry Pi, Arduino</td>
    <td> Tufts Robotics Club </td>
    <td> Sep 2018 - April 2019 </td>
   </tr>
 
    <tr>
-   <td>Sound Based Robot Localization</td>
+   <td><a href="/projects.html#sound-based-robot-localization">Sound Based Robot Localization</a></td>
    <td> MATLAB, Machine Learning</td>
    <td> Probabilistic Robotics Class </td>
    <td> May 2019 </td>
   </tr>
 
    <tr>
-   <td>Clappy Bird</td>
+   <td><a href="/projects.html#clappy-bird">Clappy Bird</a></td>
    <td> VHDL, FPGA, Lattice Radiant</td>
    <td> Digital Circuits Class </td>
    <td> May 2019 </td>
   </tr>
 
    <tr>
-   <td>Programming Robots through Paper Worksheets</td>
+   <td><a href="/projects.html#programming-robots-through-paper-worksheets">Programming Robots through Paper Worksheets</a></td>
    <td> OpenCV, C++, LabVIEW</td>
    <td> Center for Engineering Education and Outreach </td>
    <td> June 2017 - August 2017 </td>
@@ -224,10 +224,21 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 
 **Technologies Used: VHDL, FPGA, Lattice Radiant** 
 
+*Motivation:*
+* Create an interactive experience for an exposition at the end of class
 
-We recreated the popular game Flappy Bird in an FPGA using claps as the means to control the game (hence the name). We used an Arduino Nano to interface with the microphone and detect claps due to technical difficulties with the ADC but the entire game logic and rendering is done within the FPGA using clocks, flip-flops, latches, multiplexers etc. in VHDL. The video below demonstrates the system in action:
+*Role:*
+* Wrote VHDL and Arduino Code
+
+*Technical Details:*
+* Recreated the popular game Flappy Bird in an FPGA using claps as the means to control the game (hence the name)
+* Used an Arduino Nano to interface with the microphone and detect claps due to technical difficulties with the ADC
+* Entire game logic and rendering is done within the FPGA using clocks, flip-flops, latches, multiplexers etc. in VHDL
+
+*Results:*
+* The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird).
+* The video below demonstrates the system in action:
 <div>{%- include extensions/youtube.html id='YWPLAgdawzo' -%}</div>
-The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird).
 
 --------
 
@@ -236,12 +247,23 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 
 **Technologies Used: OpenCV, C++, LabVIEW** 
 
+*Motivation:*
+* Part of the center's aims is to develop technologies that facilitates teachers and enhances student learning
+* [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) (Interactive Learning and Collaboration Environment) is a digital tool developed there that helps teachers digitize typical classroom workflow
 
-I wrote code to automatically and robustly extract different sections of worksheets based on given scanned images. This would act as a convenient classwork digitization tool which allowed teachers to go through the classwork section by section and share any interesting responses with the class. 
+*Role:*
+*  Wrote code to automatically and robustly extract different sections of worksheets based on given scanned images
 
-Using that tool, I explored the possibility of digitally parsing some of those sections into meaningful data. As a particular examples, a programmable worksheet was devised and implemented that young students could simply draw on to program robots:
+*Technical Details:*
+* Used OpenCV to detect sections in a scanned image and match that with a known template
+
+*Results:*
+* As a demonstration, devised and implemented a programmable worksheet that young students could simply draw on to program robots:
 
 {% include image-caption.html imageurl="/assets/images/experience/worksheet.PNG" title="robotsheet" caption="" %}
+
+
+
 
 
 
