@@ -47,27 +47,27 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  margin: 0.83333em 0 0.41667em;
+  margin: 0.66667em 0 0.66667em;
 }
 
 h3 {
   font-size: 1.66667rem;
-  margin: 1em 0 0.5em;
+  margin: 0.66667em 0 0.66667em;
 }
 
 h4 {
   font-size: 1.33333rem;
-  margin: 1.25em 0 0.625em;
+  margin: 0.66667em 0 0.66667em;
 }
 
 h5 {
   font-size: 1.11111rem;
-  margin: 1.5em 0 0.75em;
+  margin: 0.66667em 0 0.66667em;
 }
 
 h6 {
   font-size: 1rem;
-  margin: 1.66667em 0 0.83333em;
+  margin: 0.66667em 0 0.66667em;
 }
 
 h1:first-child,
@@ -80,7 +80,7 @@ h6:first-child {
 }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 0 0 0.66667em;
 }
 
 address {
@@ -175,7 +175,7 @@ dd {
 
 ul,
 ol {
-  margin: 0 0 1.66667em;
+  margin: 0 0 1em;
   padding: 0 0 0 1.66667em;
 }
 
@@ -185,9 +185,9 @@ li > ol {
 }
 
 hr {
-  background-color: $gray-lighter;
+  background-color: $gray-darkest;
   border: 0;
-  height: 1px;
+  height: 2px;
   margin: 1.66667em 0;
 }
 
