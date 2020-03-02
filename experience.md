@@ -4,9 +4,10 @@ title: Experience
 key: page-experience
 ---
 
-## Software Engineering Intern, CTRL Labs (now acquired by Facebook)
-#### (C++, Python, Go)
-### May 2019 - August 2019
+### Software Engineering Intern, CTRL Labs
+#### May 2019 - August 2019
+
+**Technologies Used: C++, Python, Go**
 
 CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
 
@@ -19,9 +20,10 @@ The hexapod was featured in an NPR video recently:
 
 --------
 
-## Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University 
-#### (ROS, Unity, C++, C#, Python)
-### Jan 2018 - Present
+### Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University 
+#### Jan 2018 - Present
+
+**Technologies Used: ROS, Unity, C++, C#, Python**
 
 I started working with Professor Jivko Sinapov in the Spring semester of my Sophomore year. During the first few months, I developed some software in ROS for data-logging the Turtlebot robots in our lab. 
 
@@ -43,10 +45,10 @@ This project has received a lot of attention within the university and beyond:
 
 --------
 
-## Co-President, Tufts Robotics Club
-### Apr 2018 - Apr 2019
+### Co-President, Tufts Robotics Club
+#### Apr 2018 - Apr 2019
 
-{% include image-caption.html imageurl="/assets/images/experience/club.JPG" title="roboteam" caption="" %}
+**Technologies Used: ROS, C++, Python, Arduino**
 
 I have been a part of the Tufts Robotics Club since freshman year and have been particularly involved with the [development of fire-fighting robots](/projects.html#trinity-college-international-fire-fighting-robot-contest). 
 
@@ -56,11 +58,15 @@ In my junior year, I was elected Co-President of the club. My main objective in 
 
 Based on the advice provided by some of the Tufts' researchers working on these issues, club dynamics for members were reshaped to ensure that the space was comfortable and welcoming for all skill levels. Active members doubled during the year which later created the most diverse Executive Board in club history.
 
+{% include image-caption.html imageurl="/assets/images/experience/club.JPG" title="roboteam" caption="" %}
+
 --------
 
-## Research Assistant, Center for Engineering Education and Outreach, Tufts University
-#### (OpenCV, C++, LabVIEW, Arduino)
-### Dec 2016 - Aug 2017
+### Research Assistant, Center for Engineering Education and Outreach, Tufts University
+#### Dec 2016 - Aug 2017
+
+**Technologies Used: OpenCV, C++, LabVIEW, Arduino**
+
 I worked in Dr. Ethan Danahy's Lab in CEEO during the freshman year of college focusing on some of the ongoing lab and research projects. My first project was designing a RESTful API for IoT devices in the lab. This was followed by implementing this system for an Arduino-powered lab sign that could change colors depending on the requests it received through the internet. 
 
 My second project involved working on the Computer Vision side of [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) (Interactive Learning and Collaboration Environment) which is a digital tool that teachers can use to enhance students' classroom experience by promoting collaboration and discussion. I wrote code to automatically and robustly extract different sections of worksheets based on given scanned images. This would act as a convenient classwork digitization tool which allowed teachers to go through the classwork section by section and share any interesting responses with the class. 
