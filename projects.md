@@ -4,37 +4,118 @@ title: Projects
 key:    page-projects
 ---
 
+### Visualizing a Robot's Perspective in Augmented Reality
+#### AIR Lab, May 2018 - August 2018
+
+**Technologies Used: ROS, Unity, C++, C#, Python**
+
+*Motivation:* 
+* Internal state of robots is often encoded in a way that is difficult to understand for users 
+* Having a fast, high-bandwidth medium to understand them can be valuable for human-robot interaction and robotics education
+
+*Role:*
+* Proposed the project for Tufts Summer Scholars and received funding to pursue it
+* Designed the overall system architecture and the information pipeline
+* Developed ROS Nodes in C++ to transform, sample and compress robot data
+* Developed a Unity application to request and parse the data into visualizations
+* Developed the visual tracking system using Vuforia and Laser Cutting
+
+*Technical Details:*
+* Supports visualizations of robot perception, belief and planning: LIDAR, Costmap, Path Planning, Localization Particles
+* Supports Hololens, iPad, Android phones and tablets
+* This [report](https://ieeexplore.ieee.org/document/8673191) covers the system architecture in detail
+
+*Results:*
+* Conducted a preliminary pilot study investigating use for navigation in shared spaces
+* Presented a [Late Breaking Report](https://ieeexplore.ieee.org/document/8673191) in HRI 2019 conference in South Korea
+* Part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
+* Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
+* Video below shows a screen-recording as captured from an iPad
+
+
+<div>{%- include extensions/youtube.html id='WjxJnggaNr8' -%}</div>
+
+---
+
+### Robot Teleoperation through Neuromuscular Control
+#### CTRL Labs Internship, May 2019
+
+**Technologies Used: Go, Vincross Hexa**
+
+CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
+
+*Motivation:*
+* Humans have evolved to have a very fine control over our wrist and hands
+* Developing interfaces that can extend this degree of control to robots can be valuable
+* Applications include remote teleoperation, learning by demonstration and semi-autonomous operation
+
+*Role:*
+* Associate EMG-based readings of muscle movements with a hexapod's appendages
+* Developed a mode that mimics finger movements of a human hand in the robot's legs
+* Developed a soccer-mode that allows users to teleoperate the robot; navigate and kick its individual legs
+
+*Technical Details:*
+* Developed an API in Go programming language for CTRL Kit
+* Developed software to parse neuromuscular information to instructions for the robot
+* Generate action requests for the robot's body parts concurrently
+
+*Results:*
+* The NPR video below shows the hexapod in action as well as introduces the technology behind CTRL Labs
+<div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
+
+---
+
 ### Faster Factoring Algorithms through Quantum Annealing
 #### Senior Capstone Project, Sep 2019 - May 2020
 
 **Technologies Used: Quantum Computing, Haskell, Python** 
 
-This project is a spinoff from the work done by my partner, João Marcos Vensi Basso, past summer in Institue of Quantum Computing, Waterloo. 
+*Motivation:*
+* Semi-prime factorization is an important operation for several reason including cryptography
+* Full-scale Quantum Computers do not exist as of today but we can exploit Quantum Annealers to obtain speedups over classical computers
 
-While full-scale Quantum Computers do not exist as of today, we can exploit Quantum Annealers to obtain speedups over classical computers. Based on the [findings from past summer](https://arxiv.org/abs/1910.09592), it is theoretically possible to achieve such speedups in factoring problems using Elliptic Curve Method and Number Field Sieve to present them as a boolean satisfiability problem which can then be approached by a Quantum Annealer. We will be using D-Wave's Quantum Annealer for this project.
+*Role:*
+* Design circuits to perform the computations such as GCD and operations using Elliptic Curve Method
+* Work with our sponsor at IQC to have those circuits implemented
+* Generate problem instances annd benchmark their complexity and algorithm performance
 
-So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. Check out our [design doc](/assets/docs/CapstoneDesignDoc.pdf) for more details!
+*Technical Details:*
+* The speedup was suggested by the following [pre-print](https://arxiv.org/abs/1910.09592)
+* Check out our [design doc](/assets/docs/CapstoneDesignDoc.pdf) for more details!
+
+*Results:* 
+* So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. 
 
 {% include image-caption.html imageurl="/assets/images/projects/dwave.jpg" title="DWave" caption="" %}
 
---------
+---
 
 ### Trinity College International Fire Fighting Robot Contest
-#### Tufts Robotics Club, Sep 2017 - April 2019
+#### Tufts Robotics Club, April 2019
 
-**Technologies Used: ROS, C++, Python, Micro-controllers** 
+**Technologies Used: ROS, C++, Python, Raspberry Pi, Arduino** 
 
-I have been involved with the contest since my freshman year of college as part of [my role in the Tufts Robotics Club](/experience.html#co-president-tufts-robotics-club). 
+*Motivation:*
+* Yearly contest held in Trinity College that simulates a fire-emergency scenario
+* Develop a robot system that can be iteratively improved upon in subsequent years
 
-In 2018, I led the development of the software architecture for the robot which was based on a central Raspberry Pi Zero interfaced with an Arduino Mega. 
+*Role:*
+* Led the development of the club's first ROS-enabled robot in 2019
+* Manage hardware, electrical and software teams
+* Taught ROS to fellow members
 
-{% include image-caption.html imageurl="/assets/images/robotics/trin18.jpg" title="Robot18" caption="" %}
+*Technical Details:*
+* A central Raspberry Pi 3B+ running ROS
+* An Arduino Mega facilitating the Pi by interacting with sensors and actuators in real time
+* Equipped with LIDAR and a servo controlled fire-extinguisher
+* Biggest challenge was tuning the mapping and path-planning algorithms to run on limited computation power
 
-In 2019, I led the full-stack development of the robot with a focus on having dedicated real time subsystems running on Arduinos and a central Raspberry Pi 3B+ running ROS. It was our first completely self-made robot that was capable of Point-to-Point navigation while doing SLAM (Simultaneous Localization and Mapping) using a LIDAR. Previously, we had been relying on heuristics like Wall-Following for navigation. Apart from hardware design and electronics setup, the key challenge for this robot was building a robust navigation stack which included writing our own controllers for motors as well as tuning mapping and path-planning parameters to the limited processing power of the 3B+.
+*Results:*
+* Capable of point-point navigation in an unknown environment using SLAM
+* Club's first functional ROS-powered robot
+* Won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/) and 2019.
 
 {% include image-caption.html imageurl="/assets/images/robotics/trin19.jpg" title="Robot19" caption="" %}
-
-The contest also organizes an Olympiad every year that focuses on the theoretical aspects of Robotics. I won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/) and 2019.
 
 --------
 
@@ -43,13 +124,33 @@ The contest also organizes an Olympiad every year that focuses on the theoretica
 
 **Technologies Used: MATLAB, Machine Learning** 
 
-We prototyped a potential localization system that could be used to augment navigation abilities of robots in our CS building. We used a Sine Sweep to generate Room Impulse Response (RIR). We then extracted some features from the RIR to predict which area of the building the robot was in using Machine Learning. It relies on the idea that different spaces within the building will have different acoustics and hence these spaces could be potentially identified by them. 
+*Motivation:*
+* Indoor navigation for robots in environments where physical layouts keep changing is difficult
+* This difficulty arises due to usage of sensory systems that rely on these physical features (LIDAR, Cameras)
+* The acoustic properties of a room are dependent mostly on the shape of the room
+* Identifying rooms based on their acoustic properties might help robots find themselves when they are lost
 
-The confusion matrix below outlines our final cross-validation results based on a dataset collected across 3 spaces with 50 samples each. Class 1 is a small lab room, Class 2 is an open lounge space and Class 3 is a section of a corridor. While it works practically perfectly within the dataset in being able to tell the lab room apart from the corridor, there is some error within the open lounge space. We thought that might be due to the possibility that the open lounge does not have a single acoustic profile throughout itself. We tried to exploit that by using RIR to predict position in room given which room it is in but did not find any solid results.
+*Role:*
+* Designed the proposal for the class project
+* Developed software in MATLAB alongside
+* Evaluated and presented our results
+
+*Technical Details:*
+* Used a Sine Sweep to generate Room Impulse Response (RIR)
+* Extracted features from the RIR
+* Used SVM on these features to predict room
+
+*Results:*
+* The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization).
+* The confusion matrix below outlines our final cross-validation results based on a dataset collected across 3 spaces with 50 samples each. 
+* Class 1 is a small lab room, Class 2 is an open lounge space and Class 3 is a section of a corridor. 
+* It works practically perfectly within the dataset in being able to tell the lab room apart from the corridor
+* There is some error within the open lounge space. 
+* Itmight be due to the possibility that the open lounge does not have a single acoustic profile throughout itself.
+* We also tried to predict position in room given which room it is in but did not find any solid results.
 
 {% include image-caption.html imageurl="/assets/images/projects/soundConfusion.PNG" title="sound" caption="" %}
 
-The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization).
 
 --------
 
@@ -65,19 +166,17 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 
 --------
 
-### ReVRSR
-#### Autonomous Intelligent Robotics Class, May 2018
+### Programming Robots through Paper Worksheets
+#### CEEO, August 2017
 
-**Technologies Used: C#, Unity, ROS, Oculus Rift** 
+**Technologies Used: OpenCV, C++, LabVIEW** 
 
 
-"Remote Virtual Reality for Service Robots" was my first experience with Unity and using XR as tool for robotics. We developed a simple VR experience that lets the user experience the world from the perspective of a robot that could be located anywhere in the world. This would allow a human user to remotely take over and operate the robot when something goes wrong. The key challenge in this project was interfacing ROS with Unity. 
+I wrote code to automatically and robustly extract different sections of worksheets based on given scanned images. This would act as a convenient classwork digitization tool which allowed teachers to go through the classwork section by section and share any interesting responses with the class. 
 
-{% include image-caption.html imageurl="/assets/images/projects/revrsr.PNG" title="revrsr" caption="" %}
+Using that tool, I explored the possibility of digitally parsing some of those sections into meaningful data. As a particular examples, a programmable worksheet was devised and implemented that young students could simply draw on to program robots:
 
-The code and project report can be found [here](https://github.com/faizan-m/revrsr). 
-
-Insights and experience from this project led to [my Tufts Summer Scholars research](/experience.html#research-assistant-autonomous-intelligent-robotics-lab-tufts-university) in using Augmented Reality as a medium of interaction with an autonomous robot.
+{% include image-caption.html imageurl="/assets/images/experience/worksheet.PNG" title="robotsheet" caption="" %}
 
 --------
 
