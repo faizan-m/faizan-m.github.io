@@ -4,14 +4,79 @@ title: Projects
 key:    page-projects
 ---
 
+<table>
+
+<thead>
+<tr>
+   <th>Project Name</th>
+   <th>Technologies</th>
+   <th>Affiliation</th>
+   <th>Date</th>
+  </tr>
+</thead>
+
+ <tbody>
+  <tr>
+   <td>Visualizing a Robot's Perspective in Augmented Reality</td>
+   <td> ROS, Unity, C++, C#, Python </td>
+   <td> AIR Lab </td>
+   <td> May 2018 - May 2019 </td>
+  </tr>
+
+  <tr>
+   <td>Robot Teleoperation through Neuromuscular Control</td>
+   <td> Go, Vincross Hexa</td>
+   <td> CTRL Labs </td>
+   <td> May 2019 </td>
+  </tr>
+
+  <tr>
+   <td>Faster Factoring Algorithms through Quantum Annealing</td>
+   <td> Quantum Computing, Haskell, Python</td>
+   <td> Senior Capstone Project with IQC </td>
+   <td> Sep 2019 - May 2020 </td>
+  </tr>
+
+   <tr>
+   <td>Trinity College International Fire Fighting Robot Contest</td>
+   <td> ROS, C++, Python, Raspberry Pi, Arduino</td>
+   <td> Tufts Robotics Club </td>
+   <td> Sep 2018 - April 2019 </td>
+  </tr>
+
+   <tr>
+   <td>Sound Based Robot Localization</td>
+   <td> MATLAB, Machine Learning</td>
+   <td> Probabilistic Robotics Class </td>
+   <td> May 2019 </td>
+  </tr>
+
+   <tr>
+   <td>Clappy Bird</td>
+   <td> VHDL, FPGA, Lattice Radiant</td>
+   <td> Digital Circuits Class </td>
+   <td> May 2019 </td>
+  </tr>
+
+   <tr>
+   <td>Programming Robots through Paper Worksheets</td>
+   <td> OpenCV, C++, LabVIEW</td>
+   <td> Center for Engineering Education and Outreach </td>
+   <td> June 2017 - August 2017 </td>
+  </tr>
+
+ </tbody>
+</table>
+
+---
 ### Visualizing a Robot's Perspective in Augmented Reality
-#### AIR Lab, May 2018 - August 2018
+#### AIR Lab, May 2018 - May 2019
 
 **Technologies Used: ROS, Unity, C++, C#, Python**
 
 *Motivation:* 
 * Internal state of robots is often encoded in a way that is difficult to understand for users 
-* Having a fast, high-bandwidth medium to understand them can be valuable for human-robot interaction and robotics education
+* Having a fast, high-bandwidth medium to understand it can be valuable for human-robot interaction and robotics education
 
 *Role:*
 * Proposed the project for Tufts Summer Scholars and received funding to pursue it
@@ -38,7 +103,7 @@ key:    page-projects
 ---
 
 ### Robot Teleoperation through Neuromuscular Control
-#### CTRL Labs Internship, May 2019
+#### CTRL Labs, May 2019
 
 **Technologies Used: Go, Vincross Hexa**
 
@@ -66,7 +131,7 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 ---
 
 ### Faster Factoring Algorithms through Quantum Annealing
-#### Senior Capstone Project, Sep 2019 - May 2020
+#### Senior Capstone Project with IQC, Sep 2019 - May 2020
 
 **Technologies Used: Quantum Computing, Haskell, Python** 
 
@@ -91,7 +156,7 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 ---
 
 ### Trinity College International Fire Fighting Robot Contest
-#### Tufts Robotics Club, April 2019
+#### Tufts Robotics Club, Sep 2018 - April 2019
 
 **Technologies Used: ROS, C++, Python, Raspberry Pi, Arduino** 
 
@@ -167,7 +232,7 @@ The code and the project report can be found [here](https://github.com/faizan-m/
 --------
 
 ### Programming Robots through Paper Worksheets
-#### CEEO, August 2017
+#### Center for Engineering Education and Outreach, June 2017 - August 2017
 
 **Technologies Used: OpenCV, C++, LabVIEW** 
 
@@ -178,19 +243,5 @@ Using that tool, I explored the possibility of digitally parsing some of those s
 
 {% include image-caption.html imageurl="/assets/images/experience/worksheet.PNG" title="robotsheet" caption="" %}
 
---------
-
-### Simple Robotics Projects
-#### Intro to Robotics Class, September 2016
-
-**Technologies Used: LabVIEW, Lego Mindstorms** 
-
-
-Simple Robotics was one of the first classes I took at Tufts. The class focused primarily on the creative design process behind building robots. We had the opportunity to build fun robots every week. Here, for example, is an animatronic Jack Sparrow that yells at you if you take his candy:
-
-<div>{%- include extensions/youtube.html id='r5JbENtdH3c' -%}</div>
-
-And this is me as a sassy, robot-wielding magician: 
-<div>{%- include extensions/youtube.html id='MnFt0QF9FBY' -%}</div>
 
 
