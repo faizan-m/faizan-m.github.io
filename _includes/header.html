@@ -1,44 +1,50 @@
-{%- if include.theme == 'dark' -%}
-  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- elsif include.theme == 'light' -%}
-  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- endif -%}
-    <div class="main">
-      <div class="header__title">
-        <div class="header__brand">
-          {%- include svg/logo.svg -%}
-          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-          {%- include snippets/get-nav-url.html path=_paths_root -%}
-          {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-          {%- endif -%}
-        </div>
-        {%- if site.search.provider -%}
-          <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
-        {%- endif -%}
-      </div>
-      {%- if site.data.navigation.header -%}
-      <nav class="navigation">
-        <ul>
-          {%- for _item in site.data.navigation.header -%}
-            {%- include snippets/get-nav-url.html path=_item.url -%}
-            {%- assign _nav_url = __return -%}
-            {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
-            {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
-            {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
-              <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- else -%}
-              <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- endif -%}
-          {%- endfor -%}
-          {%- if site.search.provider -%}
-            <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
-          {%- endif -%}
-        </ul>
-      </nav>
-      {%- endif -%}
-    </div>
-  </header>
+<header id="masthead" class="site-header">
+    <div class="site-header-wrap">
+        <div class="site-header-inside">
+
+            <div class="site-branding">
+                {% if site.logo != null %}
+                <p class="site-logo"><a href="{{ site.baseurl }}/" rel="home"><img src="{{ site.baseurl }}/assets/images/{{ site.logo }}" alt="{{ site.name }}" /></a></p>
+                <h1 class="site-title screen-reader-text"><a href="{{ site.baseurl }}" rel="home">{{site.title}}</a></h1>
+                {% elsif site.author %}
+                <p class="profile">
+                    <a href="{{ site.baseurl }}/">
+                        <img src="{{ site.baseurl }}/assets/images/{{ site.author.image }}" alt="{{ site.author.name }}'s Picture"
+                            class="avatar" />
+                    </a>
+                </p>
+                <div class="site-identity">
+                    {% if site.name %}
+                    <h1 class="site-title">
+                        <a href="{{ site.baseurl }}/">{{site.name}}</a>
+                    </h1>
+                    {% endif %}
+                    {% if site.description %}
+                    <p class="site-description">{{site.description}}</p>
+                    {% endif %}
+                </div><!-- .site-identity -->
+                {% endif %}
+                <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Main Menu</span><span
+                        class="icon-menu" aria-hidden="true"></span></button>
+            </div><!-- .site-branding -->
+
+            <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
+                <div class="site-nav-wrap">
+                    <div class="site-nav-inside">
+                    <ul class="menu">
+                        {% for link in site.navigation %}
+                        {% assign current = nil %}
+                        {% if page.url == link.url %}
+                        {% assign current = 'current-menu-item' %}
+                        {% endif %}
+                        <li class="menu-item {{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% include social-links.html %}
+                    </div><!-- .site-nav-inside -->
+                </div><!-- .site-nav-wrap -->
+            </nav><!-- .site-navigation -->
+
+        </div><!-- .site-header-inside -->
+    </div><!-- .site-header-wrap -->
+</header><!-- .site-header -->

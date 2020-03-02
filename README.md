@@ -1,89 +1,120 @@
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+# Royce Jekyll Theme v1.0.0
 
-[![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
-[![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
-[![Travis](https://img.shields.io/travis/kitian616/jekyll-TeXt-theme.svg)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/kitian616)
-[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
-
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-**[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
+[Theme Live Demo](https://royce.netlify.com/)
 
 ## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+* Mobile-ready
+* Contact form built-in 
+* Social icons built-in
+* Social sharing built-in
+* Mailchimp subscription form
+* Code Syntax Highlight with [Prism.js](https://prismjs.com/)
+* Support for Disqus comments
 
-## Skins
+## Getting Started
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+**Table of Contents**
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+* 1. Theme Configuration
+* 2. Contact form setings
+* 3. Social Links
+* 4. Site Navigation
+* 5. Images
+* 6. Local Installation
+* 7. Deployment
+* 8. Support
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+### 1. Theme Configuration
 
-### Highlight Theme
+The theme configuration options can be found within the **_config.yml** file. More information about Jekyll configuration can be found in the [Jekyll documentation](https://jekyllrb.com/docs/configuration/).
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+* name - the title of your blog, shown in the page and description areas.
+* description - the description of your site for social meta tag, search engines, and feed.xml.
+* logo - the image for site logo.
+* author-image - the author profile image, shown in the sidebar/header intro section. The author image can be found in the royce/assets/images/authorimage.jpg location.
+* author-greetings - used in the home page for the text intro section.
+* favicon - the icon for your site.
+* baseurl - the subpath of your site, e.g. /blog, for generating urls. If baseurl is set, you will need to prepend the baseurl to these settings: author image, site navigation, post images.
+* production_url - the base hostname and protocol of your site for where absolute urls are needed.
+* disqus - your Disqus shortname. Enter the Disqus shortname here if you wish to have Disqus comments enabled, leave blank to disable comments.
+* mailchimp_url - your form action URL for MailChimp newsletter signup form.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### 2. Contact form setings
+To make contact form work make sure you have defined "email: youremail@email.com" in _config.yml file and verify your form on formspree.io.
 
-## Documentation
+* email - email used for contact form.
+* contact_page_description: - description used in contact form page (contact.html).
+* thankyou_page_description - description used in thank you page (thank-you.html).
 
-### Start
+### 3. Social Links
 
-- [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
+To enable social links on your blog simply enter your social profile username, for example, twitter: "justgoodthemes" . If a field is left blank, the social icon will not be shown.
 
-### Customization
+### 4. Site Navigation
 
-- [Configuration](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration)
-- [Navigation](https://tianqi.name/jekyll-TeXt-theme/docs/en/navigation)
-- [Layouts](https://tianqi.name/jekyll-TeXt-theme/docs/en/layouts)
-- [Logo and Favicon](https://tianqi.name/jekyll-TeXt-theme/docs/en/logo-and-favicon)
-- [Authors](https://tianqi.name/jekyll-TeXt-theme/docs/en/authors)
-- [Internationalization](https://tianqi.name/jekyll-TeXt-theme/docs/en/i18n)
+The site navigation can be found in the **_config.yml** file. To add a page to the site navigation simply add your new page in the markdown format (e.g. newpage.md) in the theme root folder. Next edit your navigation menu located in **_config.yml** file on line 37. To add a new item to the navigation you have to add the item name and url. For example:
 
-### Content
+~~~~
+navigation:
+- text: New Page
+url: /newpage/
+~~~~
 
-- [Writing Posts](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts)
-- [Additional styles](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
-- [Extensions](https://tianqi.name/jekyll-TeXt-theme/docs/en/extensions)
-- [Markdown Enhancements](https://tianqi.name/jekyll-TeXt-theme/docs/en/markdown-enhancements)
+### 5. Images
 
-## Demo Pages
+Images for pages are located in the royce/assets/images folder and images for posts are located in the royce/assets/images/posts directory.
 
-| Name | Description |
-| --- | --- |
-| [Home](https://tianqi.name/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://tianqi.name/jekyll-TeXt-theme/archive.html) | Archive page |
-| [Layout Examples](https://tianqi.name/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
+#### Image With Caption
 
-## License
+Within your blog posts you can include captions for images. This requires using some HTML markup.
 
-TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
+The example below illustrates how to include an image with a caption in a blog post:
+
+~~~~
+{% include image-caption.html imageurl="/images/posts/Apple-Watch-In-Car.jpg" 
+title="Apple Super" caption="supertest" %}
+~~~~
+
+Add the following code into your post/page markdown and change its attributes accordingly.
+
+#### Full Width Image With Caption
+
+To have wide images in posts or pages simply add #wide word with the hashtag at the end of image path like in the example below:
+
+~~~~
+{% include image-caption.html imageurl="/images/posts/Apple-Watch-In-Car.jpg#wide" 
+title="Apple" caption="This is caption" %}
+~~~~
+
+Add the following code into your post/page markdown and change its attributes accordingly.
+
+### 6. Local Instalation
+
+To set up Jekyll on local machine please follow the official documentation that can be found here -> https://jekyllrb.com/docs/.
+
+### 7. Deployment
+
+Sites built using Jekyll can be deployed in a large number of ways due to the static nature of the generated output. Here are some of the most common ways:
+
+#### Manual Deployment
+
+Jekyll generates your static site to the **_site** directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live. Here are some manual ways of achieving this:
+
+##### Netlify
+
+This theme is prepared to be hosted on [Netlify](https://www.netlify.com/). All you need to do is create a new private repository on GitHub or GitLab. Upload the theme to the repository and link your repo to Netlify. Please check [this link](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/#step-2-link-to-your-github) with the step by step guidelines.
+
+##### FTP
+
+Most traditional web hosting providers let you upload files to their servers over FTP. To upload a Jekyll site to a web host using FTP, run the jekyll build command and copy the contents of the generated **_site** folder to the root folder of your hosting account. This is most likely to be the httpdocs or public_html folder on most hosting providers.
+
+##### Amazon S3
+
+If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3 where it can be served like any web server, dynamically scaling to almost unlimited traffic.
+
+### 8. Support
+
+The documentation included provides all the information you need to get started with the theme. However, if you have any questions you can email us at hello@justgoodthemes.com, and we will be happy to help you.
+
+*Also, if you have any bug reports, or feature requests, please let us know!*
