@@ -12,16 +12,16 @@ Physical storytelling is also an extremely interesting challenge to tackle. When
 
 ## Fencing
 
-{% include image-caption.html imageurl="/assets/images/fencing/1.jpg" title="fencing" caption="" %}
-
 I started fencing sophomore year of college without any prior experience. Fencing is fascinating to me for its fast-paced strategy and reliance on quick reflexes. Though I am still very much a new-comer to this sport, I have had the opportunity to participate in some tournaments on behalf of the Foil Squad at Tufts Fencing Club.
+
+{% include image-caption.html imageurl="/assets/images/fencing/1.jpg" title="fencing" caption="" %}
 
 
 ## International Mathematical Olympiad 2016
 
-{% include image-caption.html imageurl="/assets/images/imo.jpg" title="imo" caption="" %}
-
 During highschool I was heavily involved in the world of contest math. This culminated in getting selected for the national Pakistani team for IMO 2016. The selection and training was an intense, grueling process but overall it was a great learning experience about mathematical problem solving and analysis. The camps and the competition are also a source of some of my long-standing friendships.
+
+{% include image-caption.html imageurl="/assets/images/imo.jpg" title="imo" caption="" %}
 
 ## Books, Movies and Art
 I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Pratchet. I greatly appreciate their unique and whimsical approach to life and humanity. I also enjoy the irony that there is way more in common between Bulleh (a devout Sufi) and Douglas (an equally devout atheist) than one would expect.
