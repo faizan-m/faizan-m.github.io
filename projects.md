@@ -25,7 +25,7 @@ key:    page-projects
 
   <tr>
    <td><a href="/projects.html#robot-teleoperation-through-neuromuscular-control">Robot Teleoperation through Neuromuscular Control</a></td>
-   <td> Go, Vincross Hexa</td>
+   <td> Go, Vincross Hexa, Docker</td>
    <td> CTRL Labs </td>
    <td> May 2019 </td>
   </tr>
@@ -105,7 +105,7 @@ key:    page-projects
 ### Robot Teleoperation through Neuromuscular Control
 #### CTRL Labs, May 2019
 
-**Technologies Used: Go, Vincross Hexa**
+**Technologies Used: Go, Vincross Hexa, Docker**
 
 CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
 
