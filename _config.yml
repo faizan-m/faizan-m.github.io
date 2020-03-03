@@ -44,7 +44,7 @@ navigation:
   - text: Activities
     url: /activities
   - text: Resume
-    url: /assets/docs/Faizan_Resume.pdf
+    url: /resume
   - text: Search
     url: /search
 

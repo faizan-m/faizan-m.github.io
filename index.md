@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hi!
-show-title: false
 ---
 
 <div class="hero inner">
