@@ -166,7 +166,7 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 
 *Role:*
 * Led the development of the club's first ROS-enabled robot in 2019
-* Manage hardware, electrical and software teams
+* Managed hardware, electrical and software teams
 * Taught ROS to fellow members
 
 *Technical Details:*
@@ -263,7 +263,6 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 {% include image-caption.html imageurl="/assets/images/experience/worksheet.PNG" title="robotsheet" caption="" %}
 
 
-
-
+---
 
 

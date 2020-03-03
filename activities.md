@@ -34,3 +34,5 @@ I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Prat
 My favorite movie is Cloud Atlas. If there is a reasonable answer to the meaning of life, the universe and everything then it is definitely in there somewhere. My bet is on this quote: *"Our lives are not our own. From womb to tomb, we are bound to others, past and present, and by each crime and every kindness, we birth our future."*
 
 [Electric Sheep](https://electricsheep.org/) is one of the coolest things I have ever seen. It is crowd-sourced art powered by genetic algorithms that iteratively evolves based on feedback from the users. I am completely mesmerized anytime I watch any of the *sheep*.
+
+---
