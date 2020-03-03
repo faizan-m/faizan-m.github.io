@@ -53,16 +53,6 @@ key: page-experience
 
 <hr align="center" width="10%">
 
-**Research Assistant, Center for Engineering Education and Outreach, Tufts University**
-
-**(Dec 2016 - Aug 2017)**
-
-* Learned and used Arduino, OpenCV, LabVIEW, Laser Cutting
-* Created a RESTful API for lab-based IoT devices and demonstrated its usage through a web-controlled lab sign
-* Developed computer vision software for the InterLACE project to [digitize classroom worksheets](/projects.html#programming-robots-through-paper-worksheets)
-
-<hr align="center" width="10%">
-
 **Founder, Interdisciplinary Data Intensive Applications Society**
 
 **(September 2019)**
@@ -80,5 +70,15 @@ key: page-experience
 * Focused on improving club diversity, accessibility and member retention by reimagining club roles and member tracking
 * Encouraged development of competition-based robotic systems that could be improved iteratively over the years
 * Led development of projects such as [fire-fighting robots for the Trinity College contest](/projects.html#trinity-college-international-fire-fighting-robot-contest)
+
+<hr align="center" width="10%">
+
+**Research Assistant, Center for Engineering Education and Outreach, Tufts University**
+
+**(Dec 2016 - Aug 2017)**
+
+* Learned and used Arduino, OpenCV, LabVIEW, Laser Cutting
+* Created a RESTful API for lab-based IoT devices and demonstrated its usage through a web-controlled lab sign
+* Developed computer vision software for the InterLACE project to [digitize classroom worksheets](/projects.html#programming-robots-through-paper-worksheets)
 
 ---
