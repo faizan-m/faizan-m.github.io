@@ -29,23 +29,32 @@ For my main project, I devised some experimental features for CTRL Kit involving
 
 **Other Relevant Courses:** Digital Circuits, Discrete Mathematics, Linear Algebra, Calculus (1, 2 and 3), Logic (Philosophy), Probability and Statistics, Cultures in Computing (Anthropology), Neurobiology
 
-**Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University (Jan 2018 - May 2020)**
+**Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University**
 
-<!-- - ar
-- arm
-- sail on
-- cra award -->
+**(Jan 2018 - May 2020)**
 
-**Moderator + Co-Organizer, Undergraduate Research and Scholarship Symposium (2019 and 2020)**
+* Learned and used ROS, Unity, MoveIt!, Turtlebots, UR5 robotics arms
+* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) in Outstanding Undergraduate Researchers Award (2020) by Computing Research Association for my work on the [Augmented Reality project](/projects.html#visualizing-a-robots-perspective-in-augmented-reality)
+* Currently working on Symbolic AI in the Tufts team for the [DARPA SAIL-ON project](https://www.darpa.mil/news-events/2019-02-14)
 
-**Research Assistant, Center for Engineering Education and Outreach, Tufts University (Dec 2016 - Aug 2017)**
+**Moderator + Co-Organizer, Undergraduate Research and Scholarship Symposium**
+
+**(2019 and 2020)**
+
+**Research Assistant, Center for Engineering Education and Outreach, Tufts University**
+
+**(Dec 2016 - Aug 2017)**
 
 <!-- - RESTful API for IoT devices
 - worksheet -->
 
-**Founder, Interdisciplinary Data Intensive Applications Society (September 2019 - Present)**
+**Founder, Interdisciplinary Data Intensive Applications Society**
 
-**Co-President, Tufts Robotics Club (Apr 2018 - Apr 2019)**
+**(September 2019 - Present)**
+
+**Co-President, Tufts Robotics Club**
+
+**(Apr 2018 - Apr 2019)**
 
 <!-- - improve diversity, accessibility
 - develop iterative robots
