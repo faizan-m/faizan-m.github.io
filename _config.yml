@@ -45,6 +45,8 @@ navigation:
     url: /activities
   - text: Resume
     url: /assets/docs/Faizan_Resume.pdf
+  - text: Search
+    url: /search
 
 # Required Plugins
 plugins_dir:
