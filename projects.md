@@ -17,49 +17,49 @@ key:    page-projects
 
  <tbody>
   <tr>
-   <td><a href="/projects.html#visualizing-a-robots-perspective-in-augmented-reality">Visualizing a Robot's Perspective in Augmented Reality</a></td>
+   <td><a href="/projects#visualizing-a-robots-perspective-in-augmented-reality">Visualizing a Robot's Perspective in Augmented Reality</a></td>
    <td> ROS, Unity, C++, C#, Python </td>
    <td> AIR Lab </td>
    <td> May 2018 - May 2019 </td>
   </tr>
 
   <tr>
-   <td><a href="/projects.html#robot-teleoperation-through-neuromuscular-control">Robot Teleoperation through Neuromuscular Control</a></td>
+   <td><a href="/projects#robot-teleoperation-through-neuromuscular-control">Robot Teleoperation through Neuromuscular Control</a></td>
    <td> Go, Vincross Hexa, Docker</td>
    <td> CTRL Labs </td>
    <td> May 2019 </td>
   </tr>
 
   <tr>
-   <td><a href="/projects.html#faster-factoring-algorithms-through-quantum-annealing">Faster Factoring Algorithms through Quantum Annealing</a></td>
+   <td><a href="/projects#faster-factoring-algorithms-through-quantum-annealing">Faster Factoring Algorithms through Quantum Annealing</a></td>
    <td> Quantum Computing, Haskell, Python</td>
    <td> Senior Capstone Project with IQC </td>
    <td> Sep 2019 - May 2020 </td>
   </tr>
 
    <tr>
-   <td><a href="/projects.html#trinity-college-international-fire-fighting-robot-contest">Trinity College International Fire Fighting Robot Contest</a></td>
+   <td><a href="/projects#trinity-college-international-fire-fighting-robot-contest">Trinity College International Fire Fighting Robot Contest</a></td>
    <td> ROS, C++, Python, Raspberry Pi, Arduino</td>
    <td> Tufts Robotics Club </td>
    <td> Sep 2018 - April 2019 </td>
   </tr>
 
    <tr>
-   <td><a href="/projects.html#sound-based-robot-localization">Sound Based Robot Localization</a></td>
+   <td><a href="/projects#sound-based-robot-localization">Sound Based Robot Localization</a></td>
    <td> MATLAB, Machine Learning</td>
    <td> Probabilistic Robotics Class </td>
    <td> May 2019 </td>
   </tr>
 
    <tr>
-   <td><a href="/projects.html#clappy-bird">Clappy Bird</a></td>
+   <td><a href="/projects#clappy-bird">Clappy Bird</a></td>
    <td> VHDL, FPGA, Lattice Radiant</td>
    <td> Digital Circuits Class </td>
    <td> May 2019 </td>
   </tr>
 
    <tr>
-   <td><a href="/projects.html#programming-robots-through-paper-worksheets">Programming Robots through Paper Worksheets</a></td>
+   <td><a href="/projects#programming-robots-through-paper-worksheets">Programming Robots through Paper Worksheets</a></td>
    <td> OpenCV, C++, LabVIEW</td>
    <td> Center for Engineering Education and Outreach </td>
    <td> June 2017 - August 2017 </td>

@@ -38,7 +38,7 @@ key: page-experience
 **(Jan 2018 - May 2020)**
 
 * Learned and used ROS, Unity, MoveIt!, Turtlebots, UR5 Arm, Hololens, Oculus Rift
-* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) in Outstanding Undergraduate Researchers Award (2020) by Computing Research Association for my work on the [Augmented Reality project](/projects.html#visualizing-a-robots-perspective-in-augmented-reality)
+* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) in Outstanding Undergraduate Researchers Award (2020) by Computing Research Association for my work on the [Augmented Reality project](/projects#visualizing-a-robots-perspective-in-augmented-reality)
 * Currently working on Symbolic AI in the Tufts team for the [DARPA SAIL-ON project](https://www.darpa.mil/news-events/2019-02-14)
 
 <hr align="center" width="10%">
@@ -69,7 +69,7 @@ key: page-experience
 **(Apr 2018 - Apr 2019)**
 * Focused on improving club diversity, accessibility and member retention by reimagining club roles and member tracking
 * Encouraged development of competition-based robotic systems that could be improved iteratively over the years
-* Led development of projects such as [fire-fighting robots for the Trinity College contest](/projects.html#trinity-college-international-fire-fighting-robot-contest)
+* Led development of projects such as [fire-fighting robots for the Trinity College contest](/projects#trinity-college-international-fire-fighting-robot-contest)
 
 <hr align="center" width="10%">
 
@@ -79,6 +79,6 @@ key: page-experience
 
 * Learned and used Arduino, OpenCV, LabVIEW, Laser Cutting
 * Created a RESTful API for lab-based IoT devices and demonstrated its usage through a web-controlled lab sign
-* Developed computer vision software for the InterLACE project to [digitize classroom worksheets](/projects.html#programming-robots-through-paper-worksheets)
+* Developed computer vision software for the InterLACE project to [digitize classroom worksheets](/projects#programming-robots-through-paper-worksheets)
 
 ---
