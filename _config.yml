@@ -1,12 +1,12 @@
 # Site setings
 name: 'Faizan Muhammad'
-description: '(Almost) Software Engineer'
+description: ''
 meta_description: 'Personal Site'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'portrait.png'
-  greetings: "My name is Faizan Muhammad. I'm an undergraduate student studying Computer Science at Tufts University. It’s nice to meet you!"
+  greetings: ""
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://faizan-m.github.io/
