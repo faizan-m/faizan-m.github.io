@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activites
+title: Activities
 key:    page-activities
 ---
 ## Miming
