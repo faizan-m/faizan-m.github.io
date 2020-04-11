@@ -15,5 +15,9 @@ title: Hi!
     <p class="hero-text">
     My interest areas include creative problem solving, novel interaction paradigms, and building explainable systems that are resilient to and cognizant of change. 
 	</p>
+    <p></p>
+    <p class="hero-text">
+    I am also a big fan of using symbolic interactionism, cultural anthropology and media art as sources of inspiration in my work. 
+    </p>
 
 </div>  
