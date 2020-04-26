@@ -9,7 +9,7 @@ key: page-experience
 
 * CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit (now acquired by Facebook)
 
-* Interfaced a hexapod robot with CTRL Kit for [neuromuscular teleoperation](/projects.html#robot-teleoperation-through-neuromuscular-control)
+* Interfaced a hexapod robot with CTRL Kit for [neuromuscular teleoperation](/projects#robot-teleoperation-through-neuromuscular-control)
 
 * Devised experimental features for CTRL Kit involving physically contextualized interactions with real-world objects and spaces 
 
