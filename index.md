@@ -17,7 +17,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I seek to draw inspiration from symbolic interactionism, cultural anthropology and media art. 
+    I also seek to draw inspiration from symbolic interactionism, cultural anthropology and media art. 
     </p>
 
 </div>  
