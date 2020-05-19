@@ -54,7 +54,8 @@ key: page-education
 **Co-President, Tufts Robotics Club**
 
 **(Apr 2018 - Apr 2019)**
-* Improved club diversity, accessibility and member retention by reimagining club roles and member tracking
+* Improved club diversity, accessibility and member retention
+* Achieved that growth through reimagination of club roles and member tracking
 * Encouraged modular and iterative design and development of competition robots
 * Led development of projects such as [fire-fighting robots](/projects#trinity-college-international-fire-fighting-robot-contest)
 
