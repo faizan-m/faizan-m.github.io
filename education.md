@@ -25,10 +25,11 @@ key: page-education
 **(Jan 2018 - May 2020)**
 
 * Learned and used ROS, Unity, MoveIt!, Turtlebot, UR5 Arm, Hololens, Oculus Rift
-* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) by CRA for my work on the [AR project](/projects#visualizing-a-robots-perspective-in-augmented-reality)
-* Developed software architecture for the symbolic Tufts agent for [DARPA SAIL-ON](https://www.darpa.mil/news-events/2019-02-14)
+* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/){:target="_blank"} by CRA for my work on the [AR project](/projects#visualizing-a-robots-perspective-in-augmented-reality){:target="_blank"}
+* Developed software architecture for the symbolic Tufts agent for [DARPA SAIL-ON](https://www.darpa.mil/news-events/2019-02-14){:target="_blank"}
 
 <hr align="center" width="10%">
+
 
 **Moderator + Co-Organizer, Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
 
@@ -57,7 +58,7 @@ key: page-education
 * Improved club diversity, accessibility and member retention
 * Achieved that growth through reimagination of club roles and member tracking
 * Encouraged modular and iterative design and development of competition robots
-* Led development of projects such as [fire-fighting robots](/projects#trinity-college-international-fire-fighting-robot-contest)
+* Led development of projects such as [fire-fighting robots](/projects#trinity-college-international-fire-fighting-robot-contest){:target="_blank"}
 
 <hr align="center" width="10%">
 
@@ -67,4 +68,4 @@ key: page-education
 
 * Learned and used Arduino, OpenCV, LabVIEW, Laser Cutting
 * Created a RESTful API for lab-based IoT devices including a web-controlled lab sign
-* Developed computer vision software for the InterLACE project to [digitize classwork](/projects#programming-robots-through-paper-worksheets)
+* Developed computer vision software for the InterLACE project to [digitize classwork](/projects#programming-robots-through-paper-worksheets){:target="_blank"}

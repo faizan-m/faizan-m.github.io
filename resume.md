@@ -3,5 +3,5 @@ layout: page
 title: Resume
 ---
 
-## Updating it, check in later! 
+## Updating, check in later! 
 

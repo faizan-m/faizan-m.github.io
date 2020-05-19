@@ -75,26 +75,28 @@ key:    page-projects
 **Technologies Used: ROS, Unity, C++, C#, Python**
 
 *Motivation:* 
-* Internal state of robots is often encoded in a way that is difficult to understand for users 
-* Having a fast, high-bandwidth medium to understand it can be valuable for human-robot interaction and robotics education
+* Internal state of robots is often highly esoteric
+* Develop a fast, high-bandwidth and accessible medium to convey it
+* Valuable for human-robot interaction and robotics education
 
 *Role:*
 * Proposed the project for Tufts Summer Scholars and received funding to pursue it
 * Designed the overall system architecture and the information pipeline
 * Developed ROS Nodes in C++ to transform, sample and compress robot data
 * Developed a Unity application to request and parse the data into visualizations
-* Developed the visual tracking system using Vuforia and Laser Cutting
+* Developed the visual tracking system using Vuforia SDK and Laser Cutting
 
 *Technical Details:*
-* Supports visualizations of robot perception, belief and planning: LIDAR, Costmap, Path Planning, Localization Particles
+* Supports visualizations of robot perception, belief and planning
+* Specific types include LIDAR, Costmap, Path Planning, Localization Particles
 * Supports Hololens, iPad, Android phones and tablets
-* This [report](https://ieeexplore.ieee.org/document/8673191) covers the system architecture in detail
+* This [report](/publications#creating-a-shared-reality-with-robots){:target="_blank"} covers the system architecture in detail
 
 *Results:*
-* Conducted a preliminary pilot study investigating use for navigation in shared spaces
-* Presented a [Late Breaking Report](https://ieeexplore.ieee.org/document/8673191) in HRI 2019 conference in South Korea
-* Part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won the 2019 [Verizon 5G EdTech Challenge](https://www.5gedtechchallenge.com/)
-* Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
+* Conducted a pilot study investigating use for navigation in shared spaces
+* Presented a [Late Breaking Report](/publications#creating-a-shared-reality-with-robots){:target="_blank"} in HRI 2019 conference in South Korea
+* Part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/){:target="_blank"} that won the 2019 [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/){:target="_blank"}
+* Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8){:target="_blank"} and an [article](https://now.tufts.edu/articles/hands-research-undergraduates){:target="_blank"}
 * Video below shows a screen-recording as captured from an iPad
 
 
@@ -107,25 +109,24 @@ key:    page-projects
 
 **Technologies Used: Go, Vincross Hexa, Docker**
 
-CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL Kit with potential applications in AR/VR, Robotics and general Human-Machine Interaction. 
-
 *Motivation:*
 * Humans have evolved to have a very fine control over our wrist and hands
-* Developing interfaces that can extend this degree of control to robots can be valuable
-* Applications include remote teleoperation, learning by demonstration and semi-autonomous operation
+* Interfaces that can extend this degree of control to robots can be valuable
+* Remote teleoperation, learning by demonstration and semi-autonomous operation
 
 *Role:*
-* Associate EMG-based readings of muscle movements with a hexapod's appendages
-* Developed a mode that mimics finger movements of a human hand in the robot's legs
-* Developed a soccer-mode that allows users to teleoperate the robot; navigate and kick its individual legs
+* Mapped EMG-based readings of muscle activations to hexapod's appendages
+* Developed capability to mimic finger movements of a human hand
+* Developed capabiltity to kick individual legs and navigate for soccer
+* Helped filming of the demo to NPR for their CTRL Labs documentary
 
 *Technical Details:*
 * Developed an API in Go programming language for CTRL Kit
-* Developed software to parse neuromuscular information to instructions for the robot
-* Generate action requests for the robot's body parts concurrently
+* Developed logic to parse neuromuscular information into motor commands
+* Generated action requests for the robot's body parts concurrently
 
 *Results:*
-* The NPR video below shows the hexapod in action as well as introduces the technology behind CTRL Labs
+* The NPR video below introduces the technology and shows the hexapod in action
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
 
 ---
@@ -136,20 +137,22 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 **Technologies Used: Quantum Computing, Haskell, Python** 
 
 *Motivation:*
-* Semi-prime factorization is an important operation for several reason including cryptography
-* Full-scale Quantum Computers do not exist as of today but we can exploit Quantum Annealers to obtain speedups over classical computers
+* Semi-prime factorization is a fundamental operation in cryptography
+* Full-scale Quantum Computers are unlikely in the near future 
+* But Quantum Annealers might help obtain speedups over classical computers
 
 *Role:*
-* Design circuits to perform the computations such as GCD and operations using Elliptic Curve Method
+* Design circuits for GCD and operations using Elliptic Curve Method
 * Work with our sponsor at IQC to have those circuits implemented
-* Generate problem instances annd benchmark their complexity and algorithm performance
+* Benchmark the algorithm complexity and performance
 
 *Technical Details:*
-* The speedup was suggested by the following [pre-print](https://arxiv.org/abs/1910.09592)
-* Check out our [design doc](/assets/docs/CapstoneDesignDoc.pdf) for more details!
+* The speedup was suggested by the following [pre-print](https://arxiv.org/abs/1910.09592){:target="_blank"}
+* Check out our [project poster](/assets/docs/capstonePoster.jpg){:target="_blank"} for more details!
 
 *Results:* 
-* So far we have been working on learning relevant material and attempting to draft circuits for the Elliptic Curve Method. 
+* Some circuits designed but work was effected due to university closure
+* Hoping to finish up and finalize the project through the summer
 
 {% include image-caption.html imageurl="/assets/images/projects/dwave.jpg" title="DWave" caption="" %}
 
@@ -162,7 +165,7 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 
 *Motivation:*
 * Yearly contest held in Trinity College that simulates a fire-emergency scenario
-* Develop a robot system that can be iteratively improved upon in subsequent years
+* Develop a robot design that can be iteratively improved upon in subsequent years
 
 *Role:*
 * Led the development of the club's first ROS-enabled robot in 2019
@@ -171,14 +174,17 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 
 *Technical Details:*
 * A central Raspberry Pi 3B+ running ROS
-* An Arduino Mega facilitating the Pi by interacting with sensors and actuators in real time
+* An Arduino Mega interacting with sensors and actuators in real time
 * Equipped with LIDAR and a servo controlled fire-extinguisher
-* Biggest challenge was tuning the mapping and path-planning algorithms to run on limited computation power
+* Biggest challenges:
+  * Limited computation power of the Pi
+  * Tuning the mapping and path-planning algorithms
+  * Developing a robust navigation stack
 
 *Results:*
 * Capable of point-point navigation in an unknown environment using SLAM
 * Club's first functional ROS-powered robot
-* Won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/) and 2019.
+* Won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/){:target="_blank"} and 2019.
 
 {% include image-caption.html imageurl="/assets/images/robotics/trin19.jpg" title="Robot19" caption="" %}
 
@@ -190,29 +196,31 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 **Technologies Used: MATLAB, Machine Learning** 
 
 *Motivation:*
-* Indoor navigation for robots in environments where physical layouts keep changing is difficult
-* This difficulty arises due to usage of sensory systems that rely on these physical features (LIDAR, Cameras)
-* The acoustic properties of a room are dependent mostly on the shape of the room
-* Identifying rooms based on their acoustic properties might help robots find themselves when they are lost
+* Indoor navigation for robots in changing physical spaces is difficult
+* Most common sensors rely on these physical features (LIDARs, Cameras)
+* Acoustic properties of a room are dependent mostly on the shape of the room
+* Identifying rooms based on their acoustic properties could be helpful
 
 *Role:*
 * Designed the proposal for the class project
-* Developed software in MATLAB alongside
+* Developed software in MATLAB alongside a teammate
 * Evaluated and presented our results
 
 *Technical Details:*
 * Used a Sine Sweep to generate Room Impulse Response (RIR)
 * Extracted features from the RIR
-* Used SVM on these features to predict room
+* Used SVM on these features to predict the room
 
 *Results:*
-* The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization).
-* The confusion matrix below outlines our final cross-validation results based on a dataset collected across 3 spaces with 50 samples each. 
-* Class 1 is a small lab room, Class 2 is an open lounge space and Class 3 is a section of a corridor. 
-* It works practically perfectly within the dataset in being able to tell the lab room apart from the corridor
-* There is some error within the open lounge space. 
-* Itmight be due to the possibility that the open lounge does not have a single acoustic profile throughout itself.
-* We also tried to predict position in room given which room it is in but did not find any solid results.
+* The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization){:target="_blank"}
+* Dataset was collected across 3 spaces with 50 samples each
+* Confusion matrix below outlines our final cross-validation results
+  * Class 1 is a small lab room
+  * Class 2 is an open lounge space
+  * Class 3 is a section of a corridor
+* Works practically perfectly between the lab room and the corridor
+* Some error in the open lounge space possibly because it lacked a consistent profile
+* Predicting position in the room given room information did not yield solid results
 
 {% include image-caption.html imageurl="/assets/images/projects/soundConfusion.PNG" title="sound" caption="" %}
 
@@ -228,15 +236,16 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 * Create an interactive experience for an exposition at the end of class
 
 *Role:*
-* Wrote VHDL and Arduino Code
+* Developed digital circuits in VHDL and Lattice Radiant
+* Wrote Arduino Code to parse microphone signal
 
 *Technical Details:*
 * Recreated the popular game Flappy Bird in an FPGA using claps as the means to control the game (hence the name)
-* Used an Arduino Nano to interface with the microphone and detect claps due to technical difficulties with the ADC
+* Used an Arduino Nano to interface with the microphone and detect claps
 * Entire game logic and rendering is done within the FPGA using clocks, flip-flops, latches, multiplexers etc. in VHDL
 
 *Results:*
-* The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird).
+* The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird){:target="_blank"}
 * The video below demonstrates the system in action:
 <div>{%- include extensions/youtube.html id='YWPLAgdawzo' -%}</div>
 
@@ -248,17 +257,21 @@ CTRL Labs was developing an EMG-based, non-invasive neural interface called CTRL
 **Technologies Used: OpenCV, C++, LabVIEW** 
 
 *Motivation:*
-* Part of the center's aims is to develop technologies that facilitates teachers and enhances student learning
-* [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) (Interactive Learning and Collaboration Environment) is a digital tool developed there that helps teachers digitize typical classroom workflow
+* Center aims to develop technologies that enhance engineering learning
+* [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm){:target="_blank"} is a digital tool to help teachers digitize classroom workflow
+* Extend InterLACE to automatically extract and organize worksheet subsections
 
 *Role:*
-*  Wrote code to automatically and robustly extract different sections of worksheets based on given scanned images
+* Developed software in C++ using Visual Studio
 
 *Technical Details:*
-* Used OpenCV to detect sections in a scanned image and match that with a known template
+* Devised a worksheet template format to specify subsections
+* Used OpenCV to detect the sections in a scanned image using the template
+* Made the subsection information available for further processing
 
 *Results:*
-* As a demonstration, devised and implemented a programmable worksheet that young students could simply draw on to program robots:
+* Implemented a programmable worksheet as a demonstration
+* Young students could simply draw on the worksheet to program a LEGO robot
 
 {% include image-caption.html imageurl="/assets/images/experience/worksheet.PNG" title="robotsheet" caption="" %}
 

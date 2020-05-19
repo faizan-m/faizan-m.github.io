@@ -43,6 +43,8 @@ navigation:
     url: /experience
   - text: Projects
     url: /projects
+  - text: Publications
+    url: /publications
   - text: Activities
     url: /activities
   - text: Resume
