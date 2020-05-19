@@ -37,7 +37,9 @@ quora:
 navigation:
   - text: Home
     url: /
-  - text: Experience
+  - text: Education
+    url: /education
+  - text: Work Experience
     url: /experience
   - text: Projects
     url: /projects
