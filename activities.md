@@ -4,9 +4,9 @@ title: Activities
 key:    page-activities
 ---
 ## Miming
-As a member of the HYPE! mime troupe, I am involved in acting, writing and directing skits. I greatly enjoy miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. And because of that, it aspires to transcend beyond barriers of language and culture into something that is universally human. 
+I believe miming to be the origin of my interest in symbolic interactionism. As a member of the HYPE! mime troupe at Tufts, I was involved in acting, writing and directing skits. I greatly enjoy miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. Therefore, it aspires to transcend beyond barriers of language and culture into something that is universally human. 
 
-Physical storytelling is also an extremely interesting challenge to tackle. When a story is made purely of gestures and actions, each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and prediction about the audience's collective imagination as it evolves with the story.
+Physical storytelling is also an extremely interesting challenge to tackle. When a story is made purely out of the perception of physical actions, each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and prediction about the audience's collective imagination as it evolves with the story. 
 
 {% include image-caption.html imageurl="/assets/images/mime/1.jpg" title="mime" caption="" %}
 
@@ -14,7 +14,7 @@ Physical storytelling is also an extremely interesting challenge to tackle. When
 
 ## Fencing
 
-I started fencing sophomore year of college without any prior experience. Fencing is fascinating to me for its fast-paced strategy and reliance on quick reflexes. Though I am still very much a new-comer to this sport, I have had the opportunity to participate in some tournaments on behalf of the Foil Squad at Tufts Fencing Club.
+I started fencing sophomore year of college without any prior experience. Fencing is fascinating to me for its fast-paced strategy and quick decision making. Though I am still very much a new-comer to this sport, I have had the opportunity to participate in some tournaments on behalf of the Foil Squad at Tufts Fencing Club.
 
 {% include image-caption.html imageurl="/assets/images/fencing/1.jpg" title="fencing" caption="" %}
 
@@ -22,7 +22,7 @@ I started fencing sophomore year of college without any prior experience. Fencin
 
 ## International Mathematical Olympiad 2016
 
-During highschool I was heavily involved in the world of contest math. This culminated in getting selected for the national Pakistani team for IMO 2016. The selection and training was an intense, grueling process but overall it was a great learning experience about mathematical problem solving and analysis. The camps and the competition are also a source of some of my long-standing friendships.
+During highschool I was heavily involved in the world of contest math. This culminated in getting selected for the national Pakistani team for the IMO 2016. The selection and training was an intense, grueling process but overall it was a great learning experience about mathematical problem solving and analysis. The camps and the competition are also a source of some of my longest-standing friendships.
 
 {% include image-caption.html imageurl="/assets/images/imo.jpg" title="imo" caption="" %}
 
