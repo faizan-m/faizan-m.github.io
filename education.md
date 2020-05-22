@@ -20,18 +20,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**Research Assistant, Autonomous Intelligent Robotics Lab, Tufts University**
-
-**(Jan 2018 - May 2020)**
-
-* Learned and used ROS, Unity, MoveIt!, Turtlebot, UR5 Arm, Hololens, Oculus Rift
-* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/){:target="_blank"} by CRA for my work on the [AR project](/projects#visualizing-a-robots-perspective-in-augmented-reality){:target="_blank"}
-* Developed software architecture for the symbolic Tufts agent for [DARPA SAIL-ON](https://www.darpa.mil/news-events/2019-02-14){:target="_blank"}
-
-<hr align="center" width="10%">
-
-
-**Moderator + Co-Organizer, Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
+**Moderator & Co-Organizer, Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
 
 **(2019 and 2020)**
 
@@ -51,8 +40,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-
-**Co-President, Tufts Robotics Club**
+**President, Tufts Robotics Club**
 
 **(Apr 2018 - Apr 2019)**
 * Improved club diversity, accessibility and member retention
@@ -62,10 +50,9 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**Research Assistant, Center for Engineering Education and Outreach, Tufts University**
+**Writer, Director & Actor, Hype Mime Troupe**
 
-**(Dec 2016 - Aug 2017)**
-
-* Learned and used Arduino, OpenCV, LabVIEW, Laser Cutting
-* Created a RESTful API for lab-based IoT devices including a web-controlled lab sign
-* Developed computer vision software for the InterLACE project to [digitize classwork](/projects#programming-robots-through-paper-worksheets){:target="_blank"}
+**(Sept 2016 - May 2020)**
+* Produced skits for university-wide shows every semester
+* Collaborated with other performance groups for fundraising and outreach shows
+* More details [here](/activities#miming){:target="_blank"}
