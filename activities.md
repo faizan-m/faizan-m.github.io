@@ -29,10 +29,15 @@ During highschool I was heavily involved in the world of contest math. This culm
 ----
 
 ## Books, Movies and Art
-I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Pratchet. I greatly appreciate their unique and whimsical approach to life and humanity. I also enjoy the irony that there is way more in common between Bulleh (a devout Sufi) and Douglas (an equally devout atheist) than one would expect.
-
 My favorite movie is Cloud Atlas. If there is a reasonable answer to the meaning of life, the universe and everything then it is definitely in there somewhere. My bet is on this quote: *"Our lives are not our own. From womb to tomb, we are bound to others, past and present, and by each crime and every kindness, we birth our future."*
 
 [Electric Sheep](https://electricsheep.org/) is one of the coolest things I have ever seen. It is crowd-sourced art powered by genetic algorithms that iteratively evolves based on feedback from the users. I am completely mesmerized anytime I watch any of the *sheep*.
+
+I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Pratchet. I greatly appreciate their unique and whimsical approach to life and humanity. I also enjoy the irony that there is way more in common between Bulleh (a devout Sufi) and Douglas (an equally devout atheist) than one would expect.
+
+Some books I am making my way through at the moment:
+* In the Plex by Steven Levy
+* The Robot's Rebellion by Keith Stanovich
+* Mind, Self and Society by George Herbert Mead
 
 ---
