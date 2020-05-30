@@ -20,7 +20,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**Moderator & Co-Organizer, Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
+**Moderator & Co-Organizer - Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
 
 **(2019 and 2020)**
 
@@ -30,7 +30,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**Founder, Interdisciplinary Data Intensive Applications Society**
+**Founder - Interdisciplinary Data Intensive Applications Society**
 
 **(September 2019)**
 
@@ -40,7 +40,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**President, Tufts Robotics Club**
+**President - Tufts Robotics Club**
 
 **(Apr 2018 - Apr 2019)**
 * Improved club diversity, accessibility and member retention
@@ -50,7 +50,7 @@ key: page-education
 
 <hr align="center" width="10%">
 
-**Writer, Director & Actor, Hype Mime Troupe**
+**Writer, Director & Actor - Hype Mime Troupe**
 
 **(Sept 2016 - May 2020)**
 * Produced skits for university-wide shows every semester
