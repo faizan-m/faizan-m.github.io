@@ -17,7 +17,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    Symbolic interactionism, media art, and cultural anthropology are some of my main sources of inspiration.
+    I am also particularly inspired by semiotics, media art, and cultural anthropology.
     </p>
 
 </div>  
