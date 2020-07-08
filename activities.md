@@ -4,7 +4,7 @@ title: Activities
 key:    page-activities
 ---
 ## Miming
-I believe miming to be the origin of my interest in symbolic interactionism. As a member of the HYPE! mime troupe at Tufts, I was involved in acting, writing and directing skits. I greatly enjoy miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. Therefore, it aspires to transcend beyond barriers of language and culture into something that is universally human. 
+As a member of the HYPE! mime troupe at Tufts, I was involved in acting, writing and directing skits. I greatly enjoy miming as a medium for story-telling because it demands that the plot be broken down into the most basic form of human expression; gestures and body language. Therefore, it aspires to transcend beyond barriers of language and culture into something that is universally human. I believe miming to be the origin of my interest in semiotics.
 
 Physical storytelling is also an extremely interesting challenge to tackle. When a story is made purely out of the perception of physical actions, each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and prediction about the audience's collective imagination as it evolves with the story. 
 
@@ -36,7 +36,7 @@ My favorite movie is Cloud Atlas. If there is a reasonable answer to the meaning
 I am a big fan of the written works of Bulleh Shah, Douglas Adams and Terry Pratchet. I greatly appreciate their unique and whimsical approach to life and humanity. I also enjoy the irony that there is way more in common between Bulleh (a devout Sufi) and Douglas (an equally devout atheist) than one would expect.
 
 Some books I am making my way through at the moment:
-* In the Plex by Steven Levy
+* A Theory of Computer Semiotics by P. B. Andersen
 * The Robot's Rebellion by Keith Stanovich
 * Mind, Self and Society by George Herbert Mead
 
