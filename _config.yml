@@ -53,13 +53,6 @@ navigation:
   - text: Search
     url: /search
 
-# Required Plugins
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-tagsgenerator
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # Pagination
 paginate: 5
 paginate_path: /page:num/
@@ -76,6 +69,18 @@ sass:
   style: compressed
 
 gems:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+plugins:
   - jekyll-paginate
   - jekyll-tagsgenerator
   - jekyll-seo-tag
