@@ -17,9 +17,16 @@ key:    page-projects
 
  <tbody>
   <tr>
+   <td><a href="/projects#novelty-oriented-ai-agent---darpa-sail-on-project">Novelty Oriented AI Agent - DARPA SAIL-ON Project</a></td>
+   <td> Symbolic AI, PDDL Planners, Java</td>
+   <td> AIR Lab + HRI Lab @ Tufts </td>
+   <td> Jan 2020 - May 2020 </td>
+  </tr>
+
+  <tr>
    <td><a href="/projects#visualizing-a-robots-perspective-in-augmented-reality">Visualizing a Robot's Perspective in Augmented Reality</a></td>
    <td> ROS, Unity, C++, C#, Python </td>
-   <td> AIR Lab </td>
+   <td> AIR Lab @ Tufts </td>
    <td> May 2018 - May 2019 </td>
   </tr>
 
@@ -28,13 +35,6 @@ key:    page-projects
    <td> Go, Vincross Hexa, Docker</td>
    <td> CTRL Labs </td>
    <td> May 2019 </td>
-  </tr>
-
-  <tr>
-   <td><a href="/projects#faster-factoring-algorithms-through-quantum-annealing">Faster Factoring Algorithms through Quantum Annealing</a></td>
-   <td> Quantum Computing, Haskell, Python</td>
-   <td> Senior Capstone Project with IQC </td>
-   <td> Sep 2019 - May 2020 </td>
   </tr>
 
    <tr>
@@ -68,9 +68,34 @@ key:    page-projects
  </tbody>
 </table>
 
+
+---
+
+### Novelty Oriented AI Agent - DARPA SAIL-ON Project
+#### AIR Lab + HRI Lab @ Tufts, Jan 2020 - May 2020
+
+**Technologies Used: Symbolic AI, PDDL Planners, Java** 
+
+*Motivation:*
+* The [SAIL-ON program](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="_blank"} was created by DARPA 
+* Develop AI that can recognize, handle and adapt to novel environmental changes
+* Shift focus beyond limited and controlled domains to more "open-world" ones
+* Polycraft (a Minecraft mod) was chosen as one of such environments
+
+*Role:*
+* Designed and developed software pipelines to parse sensory information, execute actions, generate facts, plan and learn
+
+*Technical Details:*
+* To be published soon
+
+*Results:* 
+* To be published soon
+
+{% include image-caption.html imageurl="/assets/images/projects/polycraft.png" title="Polycraft" caption="" %}
+
 ---
 ### Visualizing a Robot's Perspective in Augmented Reality
-#### AIR Lab, May 2018 - May 2019
+#### AIR Lab @ Tufts, May 2018 - May 2019
 
 **Technologies Used: ROS, Unity, C++, C#, Python**
 
@@ -128,33 +153,6 @@ key:    page-projects
 *Results:*
 * The NPR video below introduces the technology and shows the hexapod in action
 <div>{%- include extensions/youtube.html id='cdZLg4IORc0' -%}</div>
-
----
-
-### Faster Factoring Algorithms through Quantum Annealing
-#### Senior Capstone Project with IQC, Sep 2019 - May 2020
-
-**Technologies Used: Quantum Computing, Haskell, Python** 
-
-*Motivation:*
-* Semi-prime factorization is a fundamental operation in cryptography
-* Full-scale Quantum Computers are unlikely in the near future 
-* But Quantum Annealers might help obtain speedups over classical computers
-
-*Role:*
-* Design circuits for GCD and operations using Elliptic Curve Method
-* Work with our sponsor at IQC to have those circuits implemented
-* Benchmark the algorithm complexity and performance
-
-*Technical Details:*
-* The speedup was suggested by the following [pre-print](https://arxiv.org/abs/1910.09592){:target="_blank"}
-* Check out our [project poster](/assets/docs/capstonePoster.jpg){:target="_blank"} for more details!
-
-*Results:* 
-* Some circuits designed but work was effected due to university closure
-* Hoping to finish up and finalize the project through the summer
-
-{% include image-caption.html imageurl="/assets/images/projects/dwave.jpg" title="DWave" caption="" %}
 
 ---
 

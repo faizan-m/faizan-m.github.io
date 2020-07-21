@@ -9,10 +9,6 @@ title: Hi!
 	</p>
 	<p></p>
     <p class="hero-text">
-    I graduated from Tufts University in Computer Science.
-	</p>
-	<p></p>
-    <p class="hero-text">
     My interest areas include creative problem solving, novel human-machine interaction paradigms, and building explainable AI systems that are resilient to and cognizant of change. 
 	</p>
     <p></p>
