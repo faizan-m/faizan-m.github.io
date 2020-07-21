@@ -80,4 +80,8 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-plugins: ["jekyll-seo-tag"]
+plugins:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
