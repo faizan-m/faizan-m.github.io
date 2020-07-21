@@ -35,8 +35,8 @@ key: page-education
 **(September 2019)**
 
 * Platform for diverse domains including robotics, environment, sociology and sports
-* Structured to to foster learning and skill-sharing over result-orientedness
-* Holds community wide hackathons focused on applications such as NLP and GIS
+* Optimized for learning, skill-sharing and community-building
+* Organization of routine hackathons focused on applications such as NLP and GIS
 
 <hr align="center" width="10%">
 
