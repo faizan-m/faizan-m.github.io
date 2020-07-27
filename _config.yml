@@ -1,6 +1,6 @@
 # Site setings
 name: 'Faizan Muhammad'
-description: ''
+description: 'SWE @ Google (EngRes)'
 meta_description: 'Personal Site'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
@@ -41,7 +41,9 @@ navigation:
   - text: Education
     url: /education
   - text: Work Experience
-    url: /experience
+    url: /work
+  - text: Research Experience
+    url: /research
   - text: Projects
     url: /projects
   - text: Publications
