@@ -9,7 +9,7 @@ title: Hi!
 	</p>
 	<p></p>
     <p class="hero-text">
-    My interest areas include creative problem solving, novel human-machine interaction paradigms, and building explainable AI systems that are resilient to and cognizant of change. 
+    My interest areas include neurosymbolic AI, creative problem-solving robots, and novel human-machine interaction paradigms.
 	</p>
     <p></p>
     <p class="hero-text">
