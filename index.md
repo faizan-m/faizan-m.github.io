@@ -9,7 +9,7 @@ title: Hi!
 	</p>
 	<p></p>
     <p class="hero-text">
-    My interest areas include neurosymbolic AI and human-machine interaction with the goal of creating robots that are creative, adaptive and resilient against change.
+    My interest areas include neurosymbolic AI and human-robot interaction with the goal of creating robots that are creative, adaptive and resilient against change.
 	</p>
     <p></p>
     <p class="hero-text">
