@@ -18,6 +18,8 @@ key: page-education
 
 **Other Relevant Courses:** Digital Circuits, Discrete Mathematics, Linear Algebra, Calculus (1, 2 and 3), Logic (Philosophy), Probability and Statistics, Cultures in Computing (Anthropology), Neurobiology
 
+**Research Assistant:** AIR Lab, HRI Lab, CEEO
+
 <hr align="center" width="10%">
 
 **Moderator & Co-Organizer - Undergraduate Research and Scholarship Symposium, Tufts University Scholar Development**
