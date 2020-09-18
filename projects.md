@@ -118,9 +118,8 @@ key:    page-projects
 * This [report](/publications#creating-a-shared-reality-with-robots){:target="_blank"} covers the system architecture in detail
 
 *Results:*
-* Conducted a pilot study investigating use for navigation in shared spaces
 * Presented a [Late Breaking Report](/publications#creating-a-shared-reality-with-robots){:target="_blank"} in HRI 2019 conference in South Korea
-* Part of the Tufts [proposal](https://www.eecs.tufts.edu/~jsinapov/VAR5G/){:target="_blank"} that won the 2019 [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/){:target="_blank"}
+* Part of the Tufts [entry](https://www.eecs.tufts.edu/~jsinapov/VAR5G/){:target="_blank"} that won the 2019 [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/){:target="_blank"} and the $100K prize
 * Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8){:target="_blank"} and an [article](https://now.tufts.edu/articles/hands-research-undergraduates){:target="_blank"}
 * Video below shows a screen-recording as captured from an iPad
 
