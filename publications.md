@@ -18,5 +18,5 @@ key:    page-publications
 #### Research and/as Activism
 ##### Tufts Summer Scholars Panel, 2020
 
-* Invited as a panelist to the scholars event that explored the relationship of research and activism
+* Invited as a panelist to explore and discuss the relationship between research and activism
 * The article can be found [here](https://tischcollege.tufts.edu/news/tufts-students-discuss-research-andas-activism){:target="_blank"}
