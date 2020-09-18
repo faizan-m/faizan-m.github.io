@@ -7,7 +7,7 @@ key: page-work
 ### Google
 #### Software Engineer (July 2020 - Present)
 
-* Selected to be a part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html) program that aims to develop next generation of technology leaders
+* Part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html) program that aims to develop next generation of technology leaders
 * Focusing on production-grade, high-impact Machine Learning applications 
 
 <hr align="center" width="10%">
@@ -28,7 +28,7 @@ key: page-work
 
 * Designed and developed system architecture for the [SAIL-ON project](/projects#novelty-oriented-ai-agent---darpa-sail-on-project){:target="_blank"}
 * Led the development of agent's Novelty Detection capabilities which delivered relatively best and near-perfect results in unseen evaluations
-* Currently leading a team of graduate and undergraduate students to publish a paper outlining the Novelty Detection system
+* Currently leading a team of graduate and undergraduate students to publish a pgt aper outlining the Novelty Detection system
 
 <hr align="center" width="10%">
 
@@ -37,7 +37,7 @@ key: page-work
 
 * Learned ROS, Unity, MoveIt!, Turtlebot, UR5 Arm, Hololens, Oculus Rift
 * Pioneered and published the [AR project](/projects#visualizing-a-robots-perspective-in-augmented-reality){:target="_blank"} which also won the Verizon 5G EdTech Challenge
-* Awarded an [honorable mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/){:target="_blank"} by CRA for Outstanding Undergraduate Researcher Award
+* Awarded an honorable mention by Computing Research Association for the Outstanding Undergraduate Researcher Award
 
 <hr align="center" width="10%">
 
