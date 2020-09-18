@@ -91,7 +91,7 @@ key:    page-projects
 * To be published soon
 
 *Results:* 
-* Unseen evaluations were done by an independent team that found it performed better than other approaches and delivered near-perfect results
+* Unseen evaluations were done by an independent team that found it performed better than all other approaches and delivered near-perfect results
 * More to be published soon
 
 {% include image-caption.html imageurl="/assets/images/projects/polycraft.png" title="Polycraft" caption="" %}

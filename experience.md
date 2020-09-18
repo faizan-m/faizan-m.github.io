@@ -27,7 +27,7 @@ key: page-work
 #### Research Assistant (Jan 2018 - Dec 2019)
 
 * Designed and developed system architecture for the [SAIL-ON project](/projects#novelty-oriented-ai-agent---darpa-sail-on-project){:target="_blank"}
-* Led the development of agent's Novelty Detection capabilities which delivered relatively best and near-perfect results in unseen evaluations
+* Led the development of agent's Novelty Detection capabilities which performed better than all other approaches and delivered near-perfect results
 * Currently leading a team of graduate and undergraduate students to publish a pgt aper outlining the Novelty Detection system
 
 <hr align="center" width="10%">
