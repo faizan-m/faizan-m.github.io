@@ -84,14 +84,14 @@ key:    page-projects
 
 *Role:*
 * Designed and developed software pipelines to parse sensory information, execute actions, generate facts, plan and learn
-* In particular, devised the Novelty Detection capabilities of the agent to not only recognize environmental changes but also express them symbolically
+* Created the Novelty Detection capabilities of the agent to not only recognize environmental changes but also express them symbolically
 * Currently finalizing a paper outlining the system design which is to be published soon
 
 *Technical Details:*
 * To be published soon
 
 *Results:* 
-* Unseen evaluations were done by an independent team that found it performed better than all other approaches and delivered near-perfect results
+* Unseen evaluations by an independent team found it performed better than all other approaches and delivered near-perfect results
 * More to be published soon
 
 {% include image-caption.html imageurl="/assets/images/projects/polycraft.png" title="Polycraft" caption="" %}
