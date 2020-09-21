@@ -7,7 +7,7 @@ key: page-work
 ### Google
 #### Software Engineer (July 2020 - Present)
 
-* Part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html) program that aims to develop the next generation of technology leaders
+* Part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html){:target="_blank"} program that aims to develop the next generation of technology leaders
 * Focusing on production-grade, high-impact Machine Learning applications 
 
 <hr align="center" width="10%">
