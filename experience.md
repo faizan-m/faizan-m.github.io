@@ -47,5 +47,6 @@ key: page-work
 * Learned Arduino, OpenCV, LabVIEW, Laser Cutting
 * Created a RESTful API for lab-based IoT devices including a web-controlled lab sign
 * Developed computer vision software for the InterLACE project to [digitize classwork](/projects#programming-robots-through-paper-worksheets){:target="_blank"}
+* Demonstrated the software by creating a paper-worksheet based robot programming system
 
 <hr align="center" width="10%">
