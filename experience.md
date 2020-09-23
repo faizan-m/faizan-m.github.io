@@ -24,7 +24,7 @@ key: page-work
 <hr align="center" width="10%">
 
 ### SAIL-ON Research Team, Tufts University
-#### Research Assistant (Jan 2018 - Dec 2019)
+#### Research Assistant (Dec 2019 - May 2020)
 
 * Designed and developed system architecture for the [SAIL-ON project](/projects#novelty-oriented-ai-agent---darpa-sail-on-project){:target="_blank"}
 * Led the development of agent's Novelty Detection capabilities which delivered near-perfect results in unseen evaluations
@@ -33,7 +33,7 @@ key: page-work
 <hr align="center" width="10%">
 
 ### Autonomous Intelligent Robotics Lab, Tufts University
-#### Research Assistant (Jan 2018 - Dec 2019)
+#### Research Assistant (Jan 2018 - May 2020)
 
 * Learned ROS, Unity, MoveIt!, Turtlebot, UR5 Arm, Hololens, Oculus Rift
 * Pioneered and published the [AR project](/projects#visualizing-a-robots-perspective-in-augmented-reality){:target="_blank"} which also won the Verizon 5G EdTech Challenge
