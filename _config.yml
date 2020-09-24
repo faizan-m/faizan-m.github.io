@@ -38,6 +38,8 @@ scholar: 'citations?hl=en&user=ZmnQkLMAAAAJ'
 navigation:
   - text: Home
     url: /
+  - text: CV
+    url: /cv
   - text: Education
     url: /education
   - text: Experience
@@ -48,8 +50,6 @@ navigation:
     url: /publications
   - text: Activities
     url: /activities
-  - text: Resume
-    url: /resume
   - text: Search
     url: /search
 

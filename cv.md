@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Resume
+title: CV
+key:   page-cv
+
 ---
 
 ## Updating... check in later! 
