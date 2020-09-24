@@ -8,6 +8,8 @@ As a member of the HYPE! mime troupe at Tufts, I was involved in acting, writing
 
 Physical storytelling is also an extremely interesting challenge to tackle. When a story is made purely out of the perception of physical actions, each and every one of them counts. And so optimizing it to deliver depth without losing meaning requires a lot of thought and prediction about the audience's collective imagination as it evolves with the story. 
 
+A playlist containing some of the skits I have been involved with can be found [here](https://www.youtube.com/playlist?list=PL74VX_wnv15E9dwS8Zwey6lO_8Y6gSIa6). 
+
 {% include image-caption.html imageurl="/assets/images/mime/1.jpg" title="mime" caption="" %}
 
 ---
