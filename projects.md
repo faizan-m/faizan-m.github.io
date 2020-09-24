@@ -183,7 +183,7 @@ key:    page-projects
 *Results:*
 * Capable of point-point navigation in an unknown environment using SLAM
 * Club's first functional ROS-powered robot
-* Won the Olympiad in Senior Individual Category in [2018](https://tuftsdaily.com/news/2018/04/24/tufts-robotics-wins-international-competition-trinity-college/){:target="_blank"} and 2019.
+* Won the Olympiad in Senior Individual Category in 2018 and 2019
 
 {% include image-caption.html imageurl="/assets/images/robotics/trin19.jpg" title="Robot19" caption="" %}
 
