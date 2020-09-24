@@ -74,7 +74,7 @@ key:    page-projects
 ### Novelty Oriented AI Agent - DARPA SAIL-ON Project
 #### AIR Lab + HRI Lab @ Tufts, Jan 2020 - May 2020
 
-**Technologies Used: Symbolic AI, PDDL Planners, Java** 
+**Technologies Used: Symbolic Reasoning & Planning, RL, Java** 
 
 *Motivation:*
 * The [SAIL-ON program](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty) was created by DARPA 
