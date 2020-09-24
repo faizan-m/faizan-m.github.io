@@ -18,7 +18,7 @@ key:    page-projects
  <tbody>
   <tr>
    <td><a href="/projects#novelty-oriented-ai-agent---darpa-sail-on-project">Novelty Oriented AI Agent - DARPA SAIL-ON Project</a></td>
-   <td> Symbolic AI, PDDL Planners, Java</td>
+   <td> Symbolic Reasoning & Planning, RL, Java</td>
    <td> AIR Lab + HRI Lab @ Tufts </td>
    <td> Jan 2020 - May 2020 </td>
   </tr>
@@ -77,7 +77,7 @@ key:    page-projects
 **Technologies Used: Symbolic AI, PDDL Planners, Java** 
 
 *Motivation:*
-* The [SAIL-ON program](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="_blank"} was created by DARPA 
+* The [SAIL-ON program](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty) was created by DARPA 
 * Develop AI that can recognize, handle and adapt to novel environmental changes
 * Shift focus beyond limited and controlled domains to more "open-world" ones
 * Polycraft (a Minecraft mod) was chosen as one of such environments
@@ -120,9 +120,9 @@ key:    page-projects
 * Supports Hololens, iPad, Android phones and tablets
 
 *Results:*
-* Presented a [Late Breaking Report](/publications#creating-a-shared-reality-with-robots){:target="_blank"} in HRI 2019 conference in South Korea
-* Part of the Tufts [entry](https://www.eecs.tufts.edu/~jsinapov/VAR5G/){:target="_blank"} that won [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/){:target="_blank"} and the $100K prize
-* Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8){:target="_blank"} and an [article](https://now.tufts.edu/articles/hands-research-undergraduates){:target="_blank"}
+* Presented a [Late Breaking Report](/publications#creating-a-shared-reality-with-robots) in HRI 2019 conference in South Korea
+* Part of the Tufts [entry](https://www.eecs.tufts.edu/~jsinapov/VAR5G/)that won [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/) and the $100K prize
+* Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
 * Video below shows a screen-recording as captured from an iPad
 
 
@@ -211,7 +211,7 @@ key:    page-projects
 * Used SVM on these features to predict the room
 
 *Results:*
-* The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization){:target="_blank"}
+* The code, datasets and the project report can be found [here](https://github.com/gyawalisaurav/AudioLocalization)
 * Dataset was collected across 3 spaces with 50 samples each
 * Confusion matrix below outlines our final cross-validation results
   * Class 1 is a small lab room
@@ -244,7 +244,7 @@ key:    page-projects
 * Entire game logic and rendering is done within the FPGA using clocks, flip-flops, latches, multiplexers etc. in VHDL
 
 *Results:*
-* The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird){:target="_blank"}
+* The code and the project report can be found [here](https://github.com/faizan-m/ClappyBird)
 * The video below demonstrates the system in action:
 <div>{%- include extensions/youtube.html id='YWPLAgdawzo' -%}</div>
 
@@ -257,7 +257,7 @@ key:    page-projects
 
 *Motivation:*
 * Center aims to develop technologies that enhance engineering learning
-* [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm){:target="_blank"} is a digital tool to help teachers digitize classroom workflow
+* [InterLACE](https://ceeo.tufts.edu/research/projectsInterLACE.htm) is a digital tool to help teachers digitize classroom workflow
 * Extend InterLACE to automatically extract and organize worksheet subsections
 
 *Role:*
