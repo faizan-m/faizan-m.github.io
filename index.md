@@ -9,11 +9,11 @@ title: Hi!
 	</p>
 	<p></p>
     <p class="hero-text">
-    My main interest area is Neurosymbolic AI. I am also interested in its intersection with other fields such as Reinforcment Learning and Human-Robot Interaction.
+    My main interest area is Neurosymbolic AI. I am also interested in its intersection with other fields such as Reinforcement Learning and Human-Robot Interaction.
     </p>
     <p></p>
     <p class="hero-text">
-    I want to develop AI agents that are creative, have a nuanced understanding of their world, and are shighly adaptable and resilient against change.
+    I want to develop AI agents that can solve problems creatively, have a nuanced understanding of their world, and are highly adaptable and resilient against change.
 	</p>
     <p></p>
     <p class="hero-text">
