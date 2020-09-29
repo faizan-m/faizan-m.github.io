@@ -13,7 +13,7 @@ title: Hi!
     </p>
     <p></p>
     <p class="hero-text">
-    I want to develop AI agents that can solve problems creatively, have a nuanced understanding of their world, and are highly adaptable and resilient against change.
+    I want to develop AI agents that can solve problems creatively, have a nuanced understanding of their world, and are highly adaptable to change.
 	</p>
     <p></p>
     <p class="hero-text">
