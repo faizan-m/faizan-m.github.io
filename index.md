@@ -9,7 +9,7 @@ title: Hi!
 	</p>
 	<p></p>
     <p class="hero-text">
-    My main interest area is Neurosymbolic AI. I am also interested in its intersection with other fields such as Reinforcement Learning and Human-Robot Interaction.
+    My main interest area is Neurosymbolic AI. I am also interested in its intersection with other fields such as Reinforcement Learning and Multi-Agent Interaction (including HRI).
     </p>
     <p></p>
     <p class="hero-text">
