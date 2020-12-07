@@ -85,14 +85,16 @@ key:    page-projects
 *Role:*
 * Designed and developed software pipelines to parse sensory information, execute actions, generate facts, plan and learn
 * Created the Novelty Detection capabilities of the agent to not only recognize environmental changes but also express them symbolically
-* Currently finalizing a paper outlining the system design which is to be published soon
+* Led a group of graduate and undergraduate students to publish the system architecture
 
 *Technical Details:*
-* To be published soon
+* The cognitive architecture aims to integrate symbolic approaches (Planning, Logical Reasoning
+etc.) and neural approaches (Reinforcement Learning, Deep Learning etc.)
+* Specifics to be published soon
 
 *Results:* 
-* Unseen evaluations by an independent team found it performed better than all other approaches and delivered near-perfect results
-* More to be published soon
+* Agent achieved top performance in independent external evaluations against other approaches
+* Specifics to be published soon
 
 {% include image-caption.html imageurl="/assets/images/projects/polycraft.png" title="Polycraft" caption="" %}
 
