@@ -84,7 +84,7 @@ key:    page-projects
 
 *Role:*
 * Designed and developed software pipelines to parse sensory information, execute actions, generate facts, plan and learn
-* Created the Novelty Detection capabilities of the agent to not only recognize environmental changes but also express them symbolically
+* Pioneered the Novelty Detection capabilities of the agent to not only recognize environmental changes but also express them symbolically
 * Led a group of graduate and undergraduate students to publish the system architecture
 
 *Technical Details:*
