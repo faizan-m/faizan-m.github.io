@@ -122,8 +122,8 @@ etc.) and neural approaches (Reinforcement Learning, Deep Learning etc.)
 * Supports Hololens, iPad, Android phones and tablets
 
 *Results:*
-* Presented a [Late Breaking Report](/publications#creating-a-shared-reality-with-robots) in HRI 2019 conference in South Korea
-* Part of the Tufts [entry](https://www.eecs.tufts.edu/~jsinapov/VAR5G/)that won [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/) and the $100K prize
+* Presented a [Late Breaking Report](https://scholar.google.com/scholar?cluster=5356441431963683611&hl=en&as_sdt=0,22) in HRI 2019 conference in South Korea
+* Part of the Tufts [entry](https://www.eecs.tufts.edu/~jsinapov/VAR5G/) that won [Verizon 5G EdTech Challenge](https://venturebeat.com/2019/02/07/verizon-reveals-5g-education-tech-winners-hints-at-next-5g-cities/) and the $100K prize
 * Featured in an official Tufts University [video](https://www.youtube.com/watch?v=9_9RNRNd9y8) and an [article](https://now.tufts.edu/articles/hands-research-undergraduates)
 * Video below shows a screen-recording as captured from an iPad
 
