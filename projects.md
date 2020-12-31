@@ -94,7 +94,7 @@ etc.) and neural approaches (Reinforcement Learning, Deep Learning etc.)
 
 *Results:* 
 * Agent achieved top performance in independent external evaluations against other approaches
-* Specifics to be published soon
+* Paper regarding the agent architecture has been accepted to AAMAS 2021
 
 {% include image-caption.html imageurl="/assets/images/projects/polycraft.png" title="Polycraft" caption="" %}
 
