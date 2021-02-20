@@ -17,7 +17,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I am also particularly inspired by semiotics, media art, and cultural anthropology.
+    On a personal level, I am particularly inspired by semiotics, media art, and cultural anthropology.
     </p>
 
 </div>  
