@@ -9,7 +9,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    As an engineer, I am a big fan of both prototyping and productionizing impactful ideas. I quite enjoy developing data pipelines and training infrastructure for effective deployment of ML models.
+    As an engineer, I am a big fan of both prototyping and productionizing impactful ideas. I enjoy developing ML infrastructure including simulators, data/training pipelines and associated UX.
     </p>
 	<p></p>
     <p class="hero-text">
