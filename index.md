@@ -9,7 +9,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I am an engineer at Google working on Tensorflow. 
+    I am a Google engineer working on Tensorflow. 
     </p>
 	<p></p>
     <p class="hero-text">
