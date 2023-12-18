@@ -9,7 +9,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I am a Google engineer working on Tensorflow. 
+    I am a Google engineer working at the intersection of LLMs, multi-step reasoning and knowledge representation. Previously, I have been a contributor to TensorFlow and Gemini. 
     </p>
 	<p></p>
     <p class="hero-text">
