@@ -9,7 +9,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I am a Google engineer working at the intersection of LLMs, multi-step reasoning and knowledge representation. Previously, I have contributed to <a href="[https://www.tensorflow.org/](https://github.com/tensorflow/tensorflow/commits/master/?author=faizan-m)">TensorFlow</a> and <a href="https://arxiv.org/abs/2312.11805">Gemini</a>. 
+    I am a Google engineer working at the intersection of LLMs, multi-step reasoning and knowledge representation. Previously, I have contributed to <a href="https://github.com/tensorflow/tensorflow/commits/master/?author=faizan-m">TensorFlow</a> and <a href="https://arxiv.org/abs/2312.11805">Gemini</a>. 
     </p>
 	<p></p>
     <p class="hero-text">
