@@ -9,7 +9,7 @@ title: Hi!
 	</p>
     <p></p>
     <p class="hero-text">
-    I am a Google engineer working at the intersection of LLMs, multi-step reasoning and knowledge representation. Previously, I have contributed to <a href="https://www.tensorflow.org/">TensorFlow</a> and <a href="https://goo.gle/GeminiPaper">Gemini</a>. 
+    I am a Google engineer working at the intersection of LLMs, multi-step reasoning and knowledge representation. Previously, I have contributed to <a href="[https://www.tensorflow.org/](https://github.com/tensorflow/tensorflow/commits/master/?author=faizan-m)">TensorFlow</a> and <a href="https://arxiv.org/abs/2312.11805">Gemini</a>. 
     </p>
 	<p></p>
     <p class="hero-text">
@@ -17,6 +17,6 @@ title: Hi!
     </p>
     <p></p>
     <p class="hero-text">
-    At a personal level, I find myself particularly inspired by semiotics, media art, and Sufi philosophy. And I like to talk about my musings on <a href="https://medium.com/@faizan.muham">Medium</a>.
+    At a personal level, I find myself particularly inspired by semiotics, media art, and Sufi philosophy. I talk about my musings on <a href="https://medium.com/@faizan.muham">Medium</a>.
     </p>
 </div>  
