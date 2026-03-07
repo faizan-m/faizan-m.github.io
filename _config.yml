@@ -58,20 +58,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-gems:
-  - jekyll-paginate
-  - jekyll-tagsgenerator
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-tagsgenerator
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 plugins:
   - jekyll-paginate
-  - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
