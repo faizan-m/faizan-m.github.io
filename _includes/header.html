@@ -1,50 +1,29 @@
 <header id="masthead" class="site-header">
-    <div class="site-header-wrap">
-        <div class="site-header-inside">
+    <div class="site-header-inside">
+        <div class="site-branding">
+            <h1 class="site-title">
+                <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+            </h1>
+        </div><!-- .site-branding -->
 
-            <div class="site-branding">
-                {% if site.logo != null %}
-                <p class="site-logo"><a href="{{ site.baseurl }}/" rel="home"><img src="{{ site.baseurl }}/assets/images/{{ site.logo }}" alt="{{ site.name }}" /></a></p>
-                <h1 class="site-title screen-reader-text"><a href="{{ site.baseurl }}" rel="home">{{site.title}}</a></h1>
-                {% elsif site.author %}
-                <p class="profile">
-                    <a href="{{ site.baseurl }}/">
-                        <img src="{{ site.baseurl }}/assets/images/{{ site.author.image }}" alt="{{ site.author.name }}'s Picture"
-                            class="avatar" />
-                    </a>
-                </p>
-                <div class="site-identity">
-                    {% if site.name %}
-                    <h1 class="site-title">
-                        <a href="{{ site.baseurl }}/">{{site.name}}</a>
-                    </h1>
-                    {% endif %}
-                    {% if site.description %}
-                    <p class="site-description">{{site.description}}</p>
-                    {% endif %}
-                </div><!-- .site-identity -->
+        <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Main Menu</span><span
+                class="icon-menu" aria-hidden="true"></span></button>
+
+        <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
+            <ul class="menu">
+                {% for link in site.navigation %}
+                {% assign current = nil %}
+                {% if page.url == link.url %}
+                {% assign current = 'current-menu-item' %}
                 {% endif %}
-                <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Main Menu</span><span
-                        class="icon-menu" aria-hidden="true"></span></button>
-            </div><!-- .site-branding -->
+                <li class="menu-item {{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
+                {% endfor %}
+                <li class="menu-item menu-item-cv"><a href="/assets/docs/Faizan_CV.pdf" target="_blank">CV</a></li>
+            </ul>
+        </nav><!-- .site-navigation -->
 
-            <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
-                <div class="site-nav-wrap">
-                    <div class="site-nav-inside">
-                    <ul class="menu">
-                        {% for link in site.navigation %}
-                        {% assign current = nil %}
-                        {% if page.url == link.url %}
-                        {% assign current = 'current-menu-item' %}
-                        {% endif %}
-                        <li class="menu-item {{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
-                        {% endfor %}
-                    </ul>
-                    {% include social-links.html %}
-                    </div><!-- .site-nav-inside -->
-                </div><!-- .site-nav-wrap -->
-            </nav><!-- .site-navigation -->
-
-        </div><!-- .site-header-inside -->
-    </div><!-- .site-header-wrap -->
+        <div class="header-social">
+            {% include social-links.html %}
+        </div>
+    </div><!-- .site-header-inside -->
 </header><!-- .site-header -->

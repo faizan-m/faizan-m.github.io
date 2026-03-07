@@ -1,12 +1,18 @@
 // Fonts
-$font-primary: 'Karla', sans-serif;
-$font-secondary: 'Crimson Text', serif;
+$font-primary: 'Space Grotesk', sans-serif;
+$font-secondary: 'Source Serif 4', serif;
 
 // Colors
 $color-accent: #d48859;
+$color-hero-bg: #1a1a2e;
 $gray-darkest: #1d1d1d;
 $gray-dark: #333;
-$gray: #666;
-$gray-light: #aaa;
+$gray: #555;
+$gray-light: #999;
 $gray-lighter: #eee;
+$gray-lightest: #f7f7f7;
 $yellow: #fffac4;
+
+// Layout
+$content-max-width: 860px;
+$nav-height: 64px;

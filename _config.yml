@@ -38,14 +38,10 @@ scholar: 'citations?hl=en&user=ZmnQkLMAAAAJ'
 navigation:
   - text: Home
     url: /
-  - text: CV
-    url: /cv
-  - text: Projects
-    url: /projects
-  - text: Activities
-    url: /activities
-  - text: Search
-    url: /search
+  - text: Work
+    url: /work
+  - text: Publications
+    url: /publications
 
 # Pagination
 paginate: 5

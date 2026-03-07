@@ -18,7 +18,9 @@
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
     <!-- Font Embed Code -->
-	<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i|Karla:400,400i,700,700i" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
@@ -26,24 +28,12 @@
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
-<body class="{{ layout }}">
+<body class="{{ layout }} {% if page.body_class %}{{ page.body_class }}{% endif %}">
     <div id="page" class="site">
         {% include header.html %}
-        <div id="content" class="site-content fadeInDown delay_075s">
-            <div class="inner-wide">
-                {{ content }}
-
-                {% if paginator.total_posts > site.paginate %}
-                {% if page.class == 'tag-template' %}
-                {% include tag-pagination.html %}
-                {% endif %}
-                {% endif %}
-
-                {% if site.mailchimp_url and page.class == 'tag-template' %}
-                {% include newsletter-box.html %}
-                {% endif %}
-                {% include footer.html %}
-            </div><!-- .inner-wide -->
+        <div id="content" class="site-content">
+            {{ content }}
+            {% include footer.html %}
         </div><!-- .site-content -->
     </div><!-- .site -->
 
