@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Curriculum Vitae
-key:   page-cv
-
 ---
 
-### [Download](/assets/docs/Faizan_CV.pdf)
+<div class="page-title-header">
+    <h1>Curriculum Vitae</h1>
+    <p><a href="/assets/docs/Faizan_CV.pdf" target="_blank">Download PDF</a></p>
+</div>
 
-<embed src="/assets/docs/Faizan_CV.pdf" style="width: 100%;height: 70vh;border: none;" />
-
-
+<embed src="/assets/docs/Faizan_CV.pdf" style="width: 100%; height: 75vh; border: none;" />
